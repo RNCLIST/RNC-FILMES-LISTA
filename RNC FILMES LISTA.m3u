@@ -236,12 +236,14 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTRSHOFILME.mp4?
 http://185.38.12.42/sec/1503954145/3735303437f9df5b4995cd94b2e6e983547d87cfd9ba8af6/ivs/f9/a2/93f1a9947fc6/hls/tracks-1,4/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/caminhando-com-dinossauros.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;FANTASIA;2013;LIVRE",Caminhando com Dinossauros
 http://185.38.12.59/sec/1503954033/32363533aa053931ff33d4d379542cc96ea6b16bc3c42f82/ivs/4c/f2/0337469173c2/hls/tracks-1,4/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/LO6v24c.jpg" group-title="LANÇAMENTO;SUSPENSE;TERROR;2017;14 anos",O Chamado 3 (2017)
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCHMD3.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/09/21/19/14/207893.jpg"group-title="LETRA C;DRAMA;2016;14 anos",Capitao Fantastico 
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CPTFNTSC.mp4?
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQj4seMUG4sYC8Blnxds-ls1XCaTgkEXCv4iQTuL77Hi2ICVRee" group-title="LETRA C;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2006;LIVRE",Carros
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CARROS1.mp4
 #EXTINF:-1 tvg-logo="http://www.ocamundongo.com.br/wp-content/uploads/2011/01/carros-2-poster-brazil.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2006;LIVRE",Carros 2
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CARROS2.mp4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/LO6v24c.jpg" group-title="LANÇAMENTO;SUSPENSE;TERROR;2017;14 anos",O Chamado 3
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCHMD3.mp4?
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kPd07SX.jpg" group-title="LANÇAMENTO;LETRA C;DRAMA;2017;11 anos",Coragem em Campo
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CRGMEMCMP.mp4?
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nEttAAw.jpg" group-title="LETRA C;DRAMA;FICÇAO;SUSPENSE;2016;10 anos",A Chegada
