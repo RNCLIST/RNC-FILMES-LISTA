@@ -215,10 +215,9 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABRXDBLR.mp4
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABRXDBLR2.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TaAS3o7.jpg" group-title="LETRA B;TERROR;SUSPENSE;2016;14 anos",Bruxa de Blair
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BRXDBLR.mp4?
-#EXTINF:-1 tvg-logo="https://goo.gl/hjctg3" group-title="LETRA B;DRAMA;MUSICAL;2015;14 anos",Bravetown
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/04/13/11/00/404647.jpg" group-title="LETRA B;DRAMA;MUSICAL;2015;14 anos",Bravetown
 http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/BRVTWN.mp4?
-http://br.web.img3.acsta.net/r_1920_1080/pictures/15/04/13/11/00/404647.jpg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Djjgapv.jpg" group-title="LETRA A;AÇAO;FANTASIA;AVENTURA;2016;12 anos",A Bruxa do Cabelo Branco do Reino Lunar
+http://br.web.img3.acsta.net/r_1920_1080/pictures/15/04/13/11/00/404647.jpg#EXTINF:-1 tvg-logo="https://i.imgur.com/Djjgapv.jpg" group-title="LETRA A;AÇAO;FANTASIA;AVENTURA;2016;12 anos",A Bruxa do Cabelo Branco do Reino Lunar
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABRXDCBRNCRNLNR.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/97/04/05/20504446.jpg" group-title="LETRA B;AÇAO;2006;14 anos",Busca Explosiva
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BSCEXPLSV1.mp4?
@@ -232,8 +231,12 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BSCEXPLSV4.mp4?
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTRSHOFILME.mp4?
 
 ########## LETRA C ##########
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/06/10/22/25/100171.jpg" group-title="LETRA C;COMEDIA;FICÇAO;2016;10 anos",Caça-Fantasmas 
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CACFNTSM2016.mp4?
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/cacadores-de-dragoes.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;SUSPENSE;2008;LIVRE",Caçadores de Dragoes
 http://185.38.12.42/sec/1503954145/3735303437f9df5b4995cd94b2e6e983547d87cfd9ba8af6/ivs/f9/a2/93f1a9947fc6/hls/tracks-1,4/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/ZE_2vsetcKurd79K64eI6AYanjg=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2017/03/Call-to-Duty-Fora-de-Alcance.jpg" group-title="LETRA C;ANIMAÇAO;FICÇAO;GUERRA;2016;14 anos",Call to Duty: Fora de Alcance 
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CLTDTY.mp4?
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/caminhando-com-dinossauros.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;FANTASIA;2013;LIVRE",Caminhando com Dinossauros
 http://185.38.12.59/sec/1503954033/32363533aa053931ff33d4d379542cc96ea6b16bc3c42f82/ivs/4c/f2/0337469173c2/hls/tracks-1,4/index.m3u8
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/09/21/19/14/207893.jpg"group-title="LETRA C;DRAMA;2016;14 anos",Capitao Fantastico 
@@ -242,12 +245,18 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CPTFNTSC.mp4?
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CARROS1.mp4
 #EXTINF:-1 tvg-logo="http://www.ocamundongo.com.br/wp-content/uploads/2011/01/carros-2-poster-brazil.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2006;LIVRE",Carros 2
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CARROS2.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/upxOtgk.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2006;LIVRE",Cegonhas: A História que Não te Contaram (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CGNHSAHSTQNTC.mp4?
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LO6v24c.jpg" group-title="LANÇAMENTO;SUSPENSE;TERROR;2017;14 anos",O Chamado 3
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCHMD3.mp4?
-#EXTINF:-1 tvg-logo="http://i.imgur.com/kPd07SX.jpg" group-title="LANÇAMENTO;LETRA C;DRAMA;2017;11 anos",Coragem em Campo
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CRGMEMCMP.mp4?
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nEttAAw.jpg" group-title="LETRA C;DRAMA;FICÇAO;SUSPENSE;2016;10 anos",A Chegada
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ACHGDA.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/16/02/03/19/11/303307.jpg" group-title="LETRA C;DRAMA;ROMANCE;2016;14 anos ",Como Eu Era Antes de Você
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CMEUERANTSDVC.mp4?
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kPd07SX.jpg" group-title="LANÇAMENTO;LETRA C;DRAMA;2017;11 anos",Coragem em Campo
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CRGMEMCMP.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/95/73/90/20425630.jpg" group-title="LETRA C;COMEDIA;2003;14 anos",Cruzeiro das Loucas
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCRZRDLCS.mp4?
 
 
 ########## LETRA D ##########
