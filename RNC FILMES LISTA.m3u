@@ -233,12 +233,18 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTRSHOFILME.mp4?
 ########## LETRA C ##########
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/06/10/22/25/100171.jpg" group-title="LETRA C;COMEDIA;FICÇAO;2016;10 anos",Caça-Fantasmas 
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CACFNTSM2016.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/07/01/16/09/400288.jpg" group-title="LETRA C;FAROESTE;TERROR;2013;14 anos",Caçador de Almas
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CACDRDALMS.mp4?
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/cacadores-de-dragoes.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;SUSPENSE;2008;LIVRE",Caçadores de Dragoes
 http://185.38.12.42/sec/1503954145/3735303437f9df5b4995cd94b2e6e983547d87cfd9ba8af6/ivs/f9/a2/93f1a9947fc6/hls/tracks-1,4/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.fstatic.com/ZE_2vsetcKurd79K64eI6AYanjg=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2017/03/Call-to-Duty-Fora-de-Alcance.jpg" group-title="LETRA C;ANIMAÇAO;FICÇAO;GUERRA;2016;14 anos",Call to Duty: Fora de Alcance 
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CLTDTY.mp4?
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/caminhando-com-dinossauros.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;FANTASIA;2013;LIVRE",Caminhando com Dinossauros
 http://185.38.12.59/sec/1503954033/32363533aa053931ff33d4d379542cc96ea6b16bc3c42f82/ivs/4c/f2/0337469173c2/hls/tracks-1,4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IishYF7.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;FANTASIA;2016;LIVRE",Cantando de Galo (2016)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CATNDGL.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjzTeAz.jpg" group-title="LETRA C.AÇAO;FICÇAO;2016;10 anos",Capitao America 3: Guerra Civil
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CAPTAMRC3.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/09/21/19/14/207893.jpg"group-title="LETRA C;DRAMA;2016;14 anos",Capitao Fantastico 
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CPTFNTSC.mp4?
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQj4seMUG4sYC8Blnxds-ls1XCaTgkEXCv4iQTuL77Hi2ICVRee" group-title="LETRA C;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2006;LIVRE",Carros
@@ -251,6 +257,8 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CGNHSAHSTQNTC.mp4?
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCHMD3.mp4?
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nEttAAw.jpg" group-title="LETRA C;DRAMA;FICÇAO;SUSPENSE;2016;10 anos",A Chegada
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ACHGDA.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ETP042.jpg" group-title="LETRA C;COMEDIA;2016;14 anos",Cinquenta Tons de Preto
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CQNTATNSDPRT.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/16/02/03/19/11/303307.jpg" group-title="LETRA C;DRAMA;ROMANCE;2016;14 anos ",Como Eu Era Antes de Você
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CMEUERANTSDVC.mp4?
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kPd07SX.jpg" group-title="LANÇAMENTO;LETRA C;DRAMA;2017;11 anos",Coragem em Campo
