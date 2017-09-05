@@ -125,11 +125,11 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BDBYS2.mp4?
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BARBIRAVNESTLS.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BhBUmO9.jpg" group-title="LETRA B;AÇAO;1993;13 anos",Batalha de Honra
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BTLHDHNR.mp4?
-#EXTINF:-1 tvg-logo="https://goo.gl/X9S906" group-title="LETRA B;AÇAO;FICÇAO;2012;11 anos",Battleship: A Batalha dos Mares
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/89/64/87/20080556.jpg" group-title="LETRA B;AÇAO;FICÇAO;2012;11 anos",Battleship: A Batalha dos Mares
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BTSHPABTHLDSMRS.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/01/09/12/22/442219.jpg" group-title="LANÇAMENTO;LETRA B;FANTASIA;DRAMA;MUSICAL;2017;16 anos", A Bela e a Fera
 http://zeus.netcine.tv/httpdelivery/filmes2017/BELAFERA2017DUB-ALTO.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/03/25/15/06/442082.jpg" group-title="LETRA B;AÇAO;COMEDIA;POLICIAL;2015;14 anos",Belas e Perceguidas
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/03/25/15/06/442082.jpg" group-title="LETRA B;AÇAO;COMEDIA;POLICIAL;2015;14 anos",Belas e Perseguidas
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BLSEPRSGDS.mp4?
 #EXTINF:-1 tvg-logo="https://quadrantexxx.files.wordpress.com/2014/04/batman-mask-of-the-phantasm-mondo-poster-phantom-city-creative-variant.jpg" group-title="LETRA B;AÇAO;ANIMAÇAO;AVENTURA;FANTASIA;1993;12 anos",Batman: A Mascara do Fantasma
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BATMAMSCRDFNTSM.mp4?
@@ -201,6 +201,8 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BOBESPJUHRFRDGUA.mp
 http://185.38.12.40/sec/1503953901/37373335ba17612dc39033fcada66a7692ce0e63f1ce354d/ivs/07/2b/786c2929a228/hls/tracks-1,4/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/as-branquelas.jpg" group-title="LETRA B;COMEDIA;2004;13 anos",As Branquelas
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASBRNQLS.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/04/13/11/00/404647.jpg" group-title="LETRA B;DRAMA;MUSICAL;2015;14 anos",Bravetown
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/BRVTWN.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aQGEmmH.jpg" group-title="LETRA B;DRAMA;FAROESTE;2011;16 anos",Bravura Indomita
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BRVRINDMT.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/10/10/18/18/494547.jpg" group-title="LETRA B;TERROR;SUSPENSE;1989;16 anos",Brinquedo Assassino
@@ -215,9 +217,7 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABRXDBLR.mp4
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABRXDBLR2.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/TaAS3o7.jpg" group-title="LETRA B;TERROR;SUSPENSE;2016;14 anos",Bruxa de Blair
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BRXDBLR.mp4?
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/04/13/11/00/404647.jpg" group-title="LETRA B;DRAMA;MUSICAL;2015;14 anos",Bravetown
-http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/BRVTWN.mp4?
-http://br.web.img3.acsta.net/r_1920_1080/pictures/15/04/13/11/00/404647.jpg#EXTINF:-1 tvg-logo="https://i.imgur.com/Djjgapv.jpg" group-title="LETRA A;AÇAO;FANTASIA;AVENTURA;2016;12 anos",A Bruxa do Cabelo Branco do Reino Lunar
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/04/13/11/00/404647.jpg" group-title="LETRA A;AÇAO;FANTASIA;AVENTURA;2016;12 anos",A Bruxa do Cabelo Branco do Reino Lunar
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABRXDCBRNCRNLNR.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/97/04/05/20504446.jpg" group-title="LETRA B;AÇAO;2006;14 anos",Busca Explosiva
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/BSCEXPLSV1.mp4?
@@ -237,26 +237,62 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CACFNTSM2016.mp4?
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CACDRDALMS.mp4?
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/cacadores-de-dragoes.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;SUSPENSE;2008;LIVRE",Caçadores de Dragoes
 http://185.38.12.42/sec/1503954145/3735303437f9df5b4995cd94b2e6e983547d87cfd9ba8af6/ivs/f9/a2/93f1a9947fc6/hls/tracks-1,4/index.m3u8
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/03/03/23/40/466137.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;FANTASIA;2015;LIVRE",Cada um na sua Casa
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CSUMNSUACS.mp4?
+#EXTINF:-1 tvg-logo="http://i.imgur.com/W1hcPMT.jpg?1" group-title="LETRA C;COMEDIA;DRAMA;2015;14 anos",Caipira
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CAIPIRA.mp4?
 #EXTINF:-1 tvg-logo="https://img.fstatic.com/ZE_2vsetcKurd79K64eI6AYanjg=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2017/03/Call-to-Duty-Fora-de-Alcance.jpg" group-title="LETRA C;ANIMAÇAO;FICÇAO;GUERRA;2016;14 anos",Call to Duty: Fora de Alcance 
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CLTDTY.mp4?
+#EXTINF:-1 tvg-logo="http://lh5.ggpht.com/-ydqYWMb6Rx0/VG7CguC4CkI/AAAAAAAAV2c/-cc1zfNaf78/zrtn_002p68adff1a_tn.jpg?imgmax=800" group-title="LETRA C;COMEDIA;DRAMA;POLICIAL;2016;14 anos",Calvario
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CLVRIO.mp4?
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/caminhando-com-dinossauros.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;FANTASIA;2013;LIVRE",Caminhando com Dinossauros
 http://185.38.12.59/sec/1503954033/32363533aa053931ff33d4d379542cc96ea6b16bc3c42f82/ivs/4c/f2/0337469173c2/hls/tracks-1,4/index.m3u8
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/09/19/00/29/464478.jpg" group-title="LETRA C;AVENTURA;FANTASIA;2014;11 anos",Caminhos da Floresta
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CMNHSDFLRST.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IishYF7.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;FANTASIA;2016;LIVRE",Cantando de Galo (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CATNDGL.mp4?
+#EXTINF:-1 tvg-logo="http://www.hostgeek.net.br/wp-content/uploads/2017/07/CAPITAO-AMERICA-O-PRIMEIRO-VINGADOR.jpg" group-title="LETRA C.AÇAO;FICÇAO;2011;10 anos",Capitao America : O Primeiro Vingador
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CAPTAMRC1.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/02/03/20/36/257136.jpg" group-title="LETRA C.AÇAO;FICÇAO;2014;10 anos",Capitao America 2: O Soldado Invernal
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CAPTAMRC2.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjzTeAz.jpg" group-title="LETRA C.AÇAO;FICÇAO;2016;10 anos",Capitao America 3: Guerra Civil
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CAPTAMRC3.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/09/21/19/14/207893.jpg"group-title="LETRA C;DRAMA;2016;14 anos",Capitao Fantastico 
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CPTFNTSC.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/97/14/95/20511358.jpg" group-title="LETRA C;CLASSICO;DRAMA;SUSPENSE;TERROR;1976;15 anos",Carrie: A Estranha
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CRIEAESTNH1976.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/210/622/21062292_20131129163650979.jpg" group-title="LETRA C;DRAMA;SUSPENSE;TERROR;2013;15 anos",Carrie: A Estranha
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CRIEAESTNH2013.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/01/90/19871159.jpg" group-title="LETRA C;AÇAO;POLICIAL;2002;15 anos",Carga Explosiva
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CRGEXPLSV1.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/90/48/84/20099262.JPG" group-title="LETRA C;AÇAO;POLICIAL;2005;15 anos",Carga Explosiva 2
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CRGEXPLSV2.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/02/75/19871245.jpg" group-title="LETRA C;AÇAO;POLICIAL;2008;15 anos",Carga Explosiva 3
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CRGEXPLSV3.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/08/05/15/29/508592.jpg" group-title="LETRA C;AÇAO;POLICIAL;2015;15 anos",Carga Explosiva: O Legado
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CRGEXPLSVOLEGADO.mp4?
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQj4seMUG4sYC8Blnxds-ls1XCaTgkEXCv4iQTuL77Hi2ICVRee" group-title="LETRA C;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2006;LIVRE",Carros
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CARROS1.mp4
 #EXTINF:-1 tvg-logo="http://www.ocamundongo.com.br/wp-content/uploads/2011/01/carros-2-poster-brazil.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2006;LIVRE",Carros 2
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/CARROS2.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/01/22/15/14/149221.jpg" group-title="LETRA C;AVENTURA;FANTASIA;2011;LIVRE",Castelo do Medo
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CSTLDMD.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3nF3oCT.jpg" group-title="LETRA C;AVENTURA;DRAMA;2012;10 anos",Cavalo de Guerra
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CVLDGUR.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upxOtgk.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2006;LIVRE",Cegonhas: A História que Não te Contaram (2016)
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CGNHSAHSTQNTC.mp4?
+#EXTINF:-1 tvg-logo="http://sm2.imgs.sapo.pt/mb/y/W/7/g0nIkZ-4ufADlKnys2BmPNBo_.jpg" group-title="LETRA C;AÇAO;2010;14 anos",Centuriao
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CNTRAO.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/frk40io.jpg" group-title="LETRA C;DRAMA;2014;LIVRE",Ceu e de Verdade
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCEDVRD.mp4?
 #EXTINF:-1 tvg-logo="http://i.imgur.com/LO6v24c.jpg" group-title="LANÇAMENTO;SUSPENSE;TERROR;2017;14 anos",O Chamado 3
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCHMD3.mp4?
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nEttAAw.jpg" group-title="LETRA C;DRAMA;FICÇAO;SUSPENSE;2016;10 anos",A Chegada
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ACHGDA.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/masvK4S.jpg" group-title="LETRA C;AVENTURA;DRAMA;2015;15 anos",Cidades de Papel
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CDADPAPL.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jEx6IlI.jpg" group-title="LETRA C;AVENTURA;FANTASIA;2015;LIVRE",Cinderela
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CNDRLA.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ETP042.jpg" group-title="LETRA C;COMEDIA;2016;14 anos",Cinquenta Tons de Preto
 http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CQNTATNSDPRT.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/16/02/03/19/11/303307.jpg" group-title="LETRA C;DRAMA;ROMANCE;2016;14 anos ",Como Eu Era Antes de Você
@@ -265,6 +301,8 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CMEUERANTSDVC.mp4?
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CRGMEMCMP.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/95/73/90/20425630.jpg" group-title="LETRA C;COMEDIA;2003;14 anos",Cruzeiro das Loucas
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OCRZRDLCS.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dUtOpIA.jpg" group-title="LETRA C;AÇAO;1989;14 anos",Cyborg: O Dragao do Futuro
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CBRGODRGDFTRO.mp4?
 
 
 ########## LETRA D ##########
@@ -376,7 +414,7 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/KUNGFUPNDSGRDDPRGMH
 ########## LETRA L ##########
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/90/95/91/20122128.jpg" group-title="LETRA L;AVENTURA;CLASSICO;DRAMA;ROMANCE;1980;14 anos",A Lagoa Azul
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ALGOAZL.mp4?
-#EXTINF:-1 tvg-logo="http://i.imgur.com/WBlmzuc.jpg" group-title="LANÇAMENTO;LETRA L;2017",Lavanda(2017)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WBlmzuc.jpg" group-title="LANÇAMENTO;LETRA L;2017",Lavanda
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/LVNDA.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/03/21/21/12/109840.jpg" group-title="LETRA L;AÇAO;AVENTURA;2016;10 anos",A Lenda de Tarzan
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ALNDETRZN.mp4?
@@ -585,13 +623,13 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AVLTDJZFNL.mp4?
 ########## LETRA Z ##########
 
 ########## LETRA # ##########
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dwQx9pN.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1962;12 anos",007 Contra o Satanico Dr No
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dwQx9pN.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1962;12 anos",007: Contra o Satanico Dr No
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071962CNTROSTNC.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g8l2H6y.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1964;12 anos",007 Contra Goldfinger
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g8l2H6y.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1964;12 anos",007: Contra Goldfinger
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071964CNTRGLDFNG.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIqNEi2.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1965;12 anos",007 Contra a Chantagem Atomica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIqNEi2.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1965;12 anos",007: Contra a Chantagem Atomica
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071965CNTRACTGMATN.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/88/88/19962580.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1969;12 anos",007 A Serviço Secreto de sua Majestade
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/88/88/19962580.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1969;12 anos",007: A Serviço Secreto de sua Majestade
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071969ASVCSCRT.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/32/20/19874298.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1971;12 anos",007: Os Diamantes Sao Eternos
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071971OSDAMTS.mp4
@@ -599,15 +637,15 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071971OSDAMTS.mp4
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071974CNTROHMN.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/94/25/23/20313919.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1977;12 anos",007: O Espiao Que Me Amava
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071977OESPNHQMA.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XHl1cbH.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1979;12 anos",007 Contra o Foguete da Morte
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHl1cbH.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1979;12 anos",007: Contra o Foguete da Morte
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071979CNTROFGUT.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/25/78/19873625.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1981;12 anos",007: Somente Para Seus Olhos
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071981SMNTPSOLHS.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3TDpBOT.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1983;12 anos",007 Contra Octopussy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3TDpBOT.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1983;12 anos",007: Contra Octopussy
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071983CNTROPCTPS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/94/25/26/20313977.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1983;12 anos",007: Nunca Mais Outra Vez
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071983CNTROPCTPS.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8gKJoI9.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1985;12 anos",007 Na Mira dos Assassinos 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8gKJoI9.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1985;12 anos",007: Na Mira dos Assassinos 
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071985NMRDSASNS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/94/25/33/20314060.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1987;12 anos",007: Marcado Para a Morte
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071987MRCDOMRT.mp4
@@ -615,9 +653,9 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071987MRCDOMRT.mp4
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071983CNTROPCTPS.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/94/25/17/20313814.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1989;12 anos",007: Permissao Para Matar 
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071989PRMSPMTR.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/25/46/19873592.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1995;12 anos",007 Contra Goldeneye
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/25/46/19873592.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1995;12 anos",007: Contra Goldeneye
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071995CNTRGLDNE.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/30/81/19874153.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1999;12 anos",007: O Mundo Não e o Bastante
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/30/81/19874153.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1999;12 anos",007: O Mundo Nao e o Bastante
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071999OMNDNAOEOBST.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/89/50/59/20304522.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;2003;12 anos",007: Um Novo Dia Para Morrer
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0072002UNDPM.mp4
@@ -627,7 +665,7 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0072006CSNRYL.mp4
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0072008QNTOFSLC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iU2lXdQ.png" group-title="LETRA #;AÇAO;CLASSICO;2012;12 anos",007: Operaçao Skyfall
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0072012SKYFL.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tKD4DcL.jpg" group-title="LETRA #;AÇAO;CLASSICO;2015;12 anos",007 Contra Spectre 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKD4DcL.jpg" group-title="LETRA #;AÇAO;CLASSICO;2015;12 anos",007: Contra Spectre 
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0072016CNTRSPCTR.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/05/23/19/38/040749.jpg" group-title="LETRA #;SUSPENSE;TERROR;2016;15 anos",12 Horas para Sobreviver: O Ano Da Eleiçao
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/UMNTDCRM3.mp4?
@@ -639,7 +677,7 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/101DMLTS2.mp4?
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/118DAS.mp4?
 #EXTINF:-1 tvg-logo="https://orig02.deviantart.net/e046/f/2008/065/f/2/300_poster_design_by_blindbuzta.jpg" group-title="LETRA #;AÇAO;AVENTURA;DOCUMENTARIO;GUERRA;2007;16 anos",300 
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/300.mp4?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JeK5qQF.jpg" group-title="LETRA #;AÇAO;AVENTURA;DOCUMENTARIO;GUERRA;2014;16 anos",300 - A Ascensao do Imperio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeK5qQF.jpg" group-title="LETRA #;AÇAO;AVENTURA;DOCUMENTARIO;GUERRA;2014;16 anos",300: A Ascensao do Imperio
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/300AASCSDIMPRO.mp4?
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-ZHBuoRMgHQQ/Vdt67_V5eoI/AAAAAAAADNQ/UUBscdIvRv8/s1600/1941.jpg" group-title="LETRA #;CLASSICO;COMEDIA;1979;10 anos",1941: Uma Guerra Muito Louca
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/1941UGML.mp4?
