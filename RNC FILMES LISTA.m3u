@@ -195,7 +195,7 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BLADE3.mp4?
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BRDMAINSPDVRTDAIGN.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/90/53/98/20101535.jpg" group-title="LETRA B;ANIMAÇAO;AVENTURA;COMEDIA;2004;LIVRE",Bob Esponja: O Filme
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BOBOFILME.mp4?
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/12/19/17/48/225645.jpg" group-title="LETRA B;ANIMAÇAO;AVENTURA;COME;2015;LIVRE",Bob Esponja: Um Heroi Fora D'agua 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/12/19/17/48/225645.jpg" group-title="LETRA B;ANIMAÇAO;AVENTURA;COMEDIA;2015;LIVRE",Bob Esponja: Um Heroi Fora D'agua 
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/BOBESPJUHRFRDGUA.mp4?
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/bolt-supercao.jpg" group-title="LETRA B;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2008;LIVRE",Bolt: O Super Cao 
 http://185.38.12.40/sec/1503953901/37373335ba17612dc39033fcada66a7692ce0e63f1ce354d/ivs/07/2b/786c2929a228/hls/tracks-1,4/index.m3u8
@@ -251,11 +251,11 @@ http://185.38.12.59/sec/1503954033/32363533aa053931ff33d4d379542cc96ea6b16bc3c42
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CMNHSDFLRST.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IishYF7.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;FANTASIA;2016;LIVRE",Cantando de Galo
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CATNDGL.mp4?
-#EXTINF:-1 tvg-logo="http://www.hostgeek.net.br/wp-content/uploads/2017/07/CAPITAO-AMERICA-O-PRIMEIRO-VINGADOR.jpg" group-title="LETRA C.AÇAO;FICÇAO;2011;10 anos",Capitao America : O Primeiro Vingador
+#EXTINF:-1 tvg-logo="http://www.hostgeek.net.br/wp-content/uploads/2017/07/CAPITAO-AMERICA-O-PRIMEIRO-VINGADOR.jpg" group-title="LETRA C;AÇAO;FICÇAO;2011;10 anos",Capitao America : O Primeiro Vingador
 http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CAPTAMRC1.mp4?
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/02/03/20/36/257136.jpg" group-title="LETRA C.AÇAO;FICÇAO;2014;10 anos",Capitao America 2: O Soldado Invernal
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/02/03/20/36/257136.jpg" group-title="LETRA C;AÇAO;FICÇAO;2014;10 anos",Capitao America 2: O Soldado Invernal
 http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CAPTAMRC2.mp4?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XjzTeAz.jpg" group-title="LETRA C.AÇAO;FICÇAO;2016;10 anos",Capitao America 3: Guerra Civil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjzTeAz.jpg" group-title="LETRA C/AÇAO;FICÇAO;2016;10 anos",Capitao America 3: Guerra Civil
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CAPTAMRC3.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/09/21/19/14/207893.jpg"group-title="LETRA C;DRAMA;2016;14 anos",Capitao Fantastico 
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CPTFNTSC.mp4?
@@ -341,15 +341,15 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DVLTPROFUT1.mp4?
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DVLTPROFUT2.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/92/91/49/20224872.jpg" group-title="LETRA D;AVENTURA;CLASSICO;COMEDIA;FICÇAO;1990;LIVRE",De Volta Para O Futuro 3
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DVLTPROFUT3.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/95/02/80/20429620.jpg" group-title="LETRA D;DRAMA;FANTASIA;ROMANCE;2013;12 anos",Dezesseis Luas 
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DZSLUAS.mp4?
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-KKx1slthmtw/VmxNc9ykbKI/AAAAAAAABac/BvIBvp3I9mI/s1600/Everest.jpg" group-title="LETRA D;DRAMA;DOCUMENTARIO;2014;14 anos",Discovery: Avalanche no Evereste
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AVLNCHNEVRST.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/90/07/53/20391069.jpg" group-title="LETRA D;DRAMA;FAROESTE;2012;12 anos",Django Livre
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DJNGLVR.mp4?
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/95/02/80/20429620.jpg" group-title="LETRA D;DRAMA;FANTASIA;ROMANCE;2013;12 anos",Dezesseis Luas 
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DZSLUAS.mp4?
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-33UzLDHL278/UVVhTZaUH1I/AAAAAAAAHms/Nwxrfy1I208/s640/doce_vinganc%25CC%25A7a_poster05.jpg" group-title="LETRA D;POLICIAL;SUSPENSE;TERROR;2011;18 anos",Doce Vingança
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DCVNGCA1.mp4?
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/10/07/20/05/163014.png" group-title="LETRA D;POLICIAL;SUSPENSE;TERROR;2014;18 anos",Doce Vingança
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/10/07/20/05/163014.png" group-title="LETRA D;POLICIAL;SUSPENSE;TERROR;2014;18 anos",Doce Vingança 2
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DCVNGCA2.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/01/23/16/21/480562.jpg" group-title="LETRA D;DRAMA;ROMANCE;2015;15 anos",Dois Lados do Amor
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DSLDSDAMR.mp4?
@@ -367,6 +367,26 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DBZEVLTN.mp4?
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/DUFFVCNHECTMOE.mp4?
 
 ########## LETRA E ##########
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/91/33/63/20140763.jpg" group-title="LETRA E;DRAMA;FICÇAO;FANTASIA;1991;LIVRE",Edward: Maos de Tesoura
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/EDWRDMSDTSR.mp4?
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-wcVn2Rcrbfs/TZGOIUdpKLI/AAAAAAAABrk/haHmWUAQs08/s1600/dvd+ela+danca+eu+som+livredanco.jpg" group-title="LETRA E;DRAMA;MUSICAL;ROMANCE;2006;14 anos",Ela Dança, Eu Danço
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELDNCEUDNC1.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/90/37/63/20093733.jpg" group-title="LETRA E;DRAMA;MUSICAL;ROMANCE;2007;14 anos",Ela Dança, Eu Danço 2
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELDNCEUDNC2.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/90/37/67/20093741.JPG" group-title="LETRA E;DRAMA;MUSICAL;ROMANCE;2010;14 anos",Ela Dança, Eu Danço 3
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELDNCEUDNC3.mp4?
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-bCT25vD1HTY/UkoGWR9T68I/AAAAAAAACtc/ORDr0Jd4f4E/s1600/Ela+Dan%C3%A7a,+Eu+Dan%C3%A7o+4.jpg" group-title="LETRA E;DRAMA;MUSICAL;ROMANCE;2012;14 anos",Ela Dança, Eu Danço 4
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELDNCEUDNC4.mp4?
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/94/e0/c7/94e0c7159e1835fc1ba08e47017107ce--gabi-telecine-play.jpg" group-title="LETRA E;DRAMA;MUSICAL;ROMANCE;2015;14 anos",Ela Dança, Eu Danço 5
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELDNCEUDNC5.mp4?
+#EXTINF:-1 tvg-logo="http://eovideolevou.com.br/imgProduto/75737_f1.jpg" group-title="LETRA E;COMEDIA;DRAMA;TERROR;2016;16 anos",Ele Nunca Morre
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELENCMRR.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EYFQpB7.jpg" group-title="LETRA E;COMEDIA.DOCUMENTARIO;2016;13 anos",Elvis e Nixon
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ELVSENIXN.mp4?
+#EXTINF:-1 tvg-logo="http://overflix.com/uploads/monthly_2017_07/Em-Meus-Sonhos-1.jpg.3fb58edd2b974ee7989b183b3cad78ff.jpg" group-title="LETRA E;DRAMA;FANTASIA;ROAMANCE;2014;14 anos",Em Meus Sonhos
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/EMSNHS.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/13/12/16/14/42/066012.jpg" group-title="LETRA E;AVENTURA;FICÇAO;2013;10 anos",Ender's Game: O Jogo Do Exterminador
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ENDGMJGDEXTRMNDR.mp4?
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-57muPfCOkMk/VM2vv-Kzo3I/AAAAAAAAIG0/pVZXhb0vu2M/s300/entrevista.jpg" group-title="LETRA E;AÇAO;COMEDIA;2015;16 anos",A Entrevista
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AERVTVST.mp4?
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/a-era-do-gelo.jpg" group-title="LETRA E;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2002;LIVRE",Era do Gelo
@@ -383,10 +403,24 @@ https://1fgm8rq.oloadcdn.net/dl/l/XVZQ1rMFPOn2sAlB/9DT25Hzlrpg/RS183+-+www.filme
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AERDGLOBB.mp4?
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyfI52gWU-2Rfchrspo0LCCv941N8g6FKeFx3frWTK5U009fucfw" group-title="LETRA E;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2016;LIVRE",Era do Gelo: A Grande Caçada aos Ovos de Pascoa
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AERDGLAGRNDCAOVS.mp4
+#EXTINF:-1 tvg-logo="http://www.cinemista.com.br/wp-content/uploads/2012/09/era-uma-vez-no-oeste-poster.jpg" group-title="LETRA E;CLASSICO;FAROESTE;1968;12 anos",Era Uma Vez no Oeste
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ERAUMAVZNOST.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/91/90/98/20169244.jpg" group-title="LETRA E;COMEDIA;2004;LIVRE",Escola de Rock
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ESCLDRCK.mp4?
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-qgB6QuwXOKo/VgYwHeZAZNI/AAAAAAACKxw/Mli5A6XPgvY/s1600/300.png" group-title="LETRA E;SUSPENSE;TERROR;2015;12 anos",Escondidos
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ESCNDS.mp4?
 #EXTINF:-1 tvg-logo="http://i.imgur.com/93BKj2w.jpg" group-title="LANÇAMENTO;LETRA E;AÇAO;2017;14 anos",Esquadrao de Elite
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ESQDRDELT.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ORvC2nL.jpg" group-title="LETRA E;AÇAO;COMEDIA;FICÇAO;2016;12 anos",Esquadrao Suicida (ESTENDIDO)
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ESQDSUCDA.mp4?
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-PvbGYZqFJn0/VZMHy75NjMI/AAAAAAAAM7s/rXUPbh-2UUg/s1600/Estrada4.png" group-title="LETRA E;DRAMA;GUERRA;2015;12 anos",A Estrada 47 
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AESTD47.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/15/08/30/15/01/024631.jpg" group-title="LETRA E;DRAMA;AVENTURA;2015;11 anos",Evereste
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/EVRSTE.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/02/11/19/08/291258.jpg" group-title="LETRA E;DRAMA;FICÇAO;2015;16 anos",Ex Machina
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/EXMCHNA.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/12/16/13/23/279562.jpg" group-title="LETRA E;;AÇÃO;DRAMA;AVENTURA;2014;10 anos",Exodo: Deuses e Reis
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/EXDDUSERS.mp4?
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XLoLPWb.jpg" group-title="LANÇAMENTO;LETRA E;SUSPENSE;TERROR;2017;18 anos",O Exorcismo de Anna Ecklund
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OEXCSMDANECKLN.mp4?
 
@@ -401,8 +435,34 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AFNTSCFBRCDCHCLT200
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/FZNDSCSN.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rb023m0.jpg" group-title="LETRA F;FANTASIA;DRAMA;ROMANCE;2011;13 anos",A Fera
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AFERA.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/94/25/76/20314404.jpg" group-title="LETRA F;DRAMA;FICÇAO;SUSPENSE;2006;14 anos",Flhos da Esperança
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FLHSDESPRNC.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/79/95/19961668.jpg" group-title="LETRA F;ANIMAÇAO;FICÇAO;FANTASIA;2001;10 anos",Final Fantasy
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FFTSTSW.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iO6PvvS.jpg" group-title="LETRA F;AÇAO;AVENTURA;DRAMA;GUERRA;11 anos",Flyboys
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FLBYS.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pfie6Dz.jpg" group-title="LETRA;DRAMA;POLICIAL15 anos;2015;14 anos ",Fora de Alcance
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FORDALCNC.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/12/17/14/04/437370.jpg" group-title="LETRA F;DRAMA;COMEDIA;2015;",Força Maior
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRCAMIOR.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/07/09/17/08/554808.jpg" group-title="LETRA F;DRAMA;MUSICAL;2015;11 anos",Forca Para Viver
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/FRCPRVIV.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/11/19/18/49/372213.jpg" group-title="LETRA F;DRAMA;DOCUMENTARIO;2015;13 anos",Foxcatcher: Uma Historia que Chocou o Mundo
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FXCTHRUHQCOM.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UXHg4xt.jpg" group-title="LETRA F;SUSPENSE;TERROR;2016;15 anos",Frankenstein
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/FRNKSTEN.mp4?
+#EXTINF:-1 tvg-logo="https://pre02.deviantart.net/365f/th/pre/f/2014/337/3/2/poster_freddy_vs_jason_by_diablito_666_by_tibubcn-d88j2nt.jpg" group-title="LETRA F;SUSPENSE;TERROR;2003;14 anos",Freddy X Jason
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRDVSJSN.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/06/09/19/58/588300.jpg" group-title="LETRA F;DRAMA;FAROESTE;2015;14 anos",Frontera
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRNTRA.mp4?
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/frozen-uma-aventura-congelante.jpg" group-title="ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2013;LIVRE",Frozen: Uma Aventura Congelante
-https://ph2dw7.oloadcdn.net/dl/l/oP9BqaC_bJnaGNOF/Qj8LP2k9OLs/Frozen.Uma.Aventura.Congelante.2014.1080p.BluRay.x264-SPARKS.DUAL.Thyrso10.mp4?mime=true
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRZNUACGLNT.mp4?
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/dvd-fugindo-do-inferno-legendas-em-portugus-D_NQ_NP_7287-MLB5186399902_102013-F.jpg" group-title="LETRA F;AVENTURA;FANTASIA;TERROR;2016;15 anos",Fugindo Do Inferno
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/FGNDINFNO.mp4?
+#EXTINF:-1 tvg-logo="https://imgur.com/KNSiO.jpg" group-title="LETRA F;AÇAO;FICÇAO;AVENTURA;2010;11 anos",Furia de Titas
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRIDTTS1.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ky25h6f.jpg" group-title="LETRA F;AÇAO;FICÇAO;AVENTURA;2010;11 anos",Furia de Titas 2
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/FRIDTTS2.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/02/29/19/42/438278.jpg" group-title="LETRA F;AÇAO;CLASSICO;1972;13 anos",A Furia do Dragao
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AFRDRGO.mp4?
 
@@ -417,19 +477,19 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/GUARDIOES2017DUB-ALTO.mp4
 http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/AHISTVRDA.mp4?
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nb6Nnjd2uTGCp4BIYqtm7cQXEpL.jpg" group-title="LETRA H;AÇAO;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2013;11 anos",Homem de Ferro: A Batalha Contra Ezekiel Stane
 https://ph2dwg.oloadcdn.net/dl/l/4HgqYuZ6fW4MWx1c/WV2WgrQ5sGE/Homem+De+Ferro+-+A+Batalha+contra+Ezekiel+Stane.mkv.mp4?mime=true
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/03/10/16/48/336112.jpg" group-title="LETRA H;CLASSICO;SUSPENSE;TERROR;1984",A Hora do Pesadelo
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/03/10/16/48/336112.jpg" group-title="LETRA H;CLASSICO;SUSPENSE;TERROR;1984;14 anos",A Hora do Pesadelo
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL01.mp4?
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-F40HV3V0fQg/TdbHWLB6lOI/AAAAAAAABA0/7-9mRvH5Qy0/s1600/A%2BHora%2BDo%2BPesadelo%2B2%2B%255B2%255D.jpg" group-title="LETRA H;CLASSICO;SUSPENSE;TERROR;1985",A Hora do Pesadelo 2: A Vingança de Freddy
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-F40HV3V0fQg/TdbHWLB6lOI/AAAAAAAABA0/7-9mRvH5Qy0/s1600/A%2BHora%2BDo%2BPesadelo%2B2%2B%255B2%255D.jpg" group-title="LETRA H;CLASSICO;SUSPENSE;TERROR;1985;14 anos",A Hora do Pesadelo 2: A Vingança de Freddy
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL02.mp4?
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-as6RIwme_D4/VPonl7F18oI/AAAAAAAANTY/idWAckN4w34/s1600/ahorpes3.jpg" group-title="LETRA H;CLASSICO;SUSPENSE;TERROR;1987",A Hora do Pesadelo 3: Os Guerreiros dos Sonhos
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-as6RIwme_D4/VPonl7F18oI/AAAAAAAANTY/idWAckN4w34/s1600/ahorpes3.jpg" group-title="LETRA H;CLASSICO;SUSPENSE;TERROR;1987;14 anos",A Hora do Pesadelo 3: Os Guerreiros dos Sonhos
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL03.mp4?
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l_cGKztGFbI/UP7i3HCcFBI/AAAAAAAAXl8/AgRx_xmXNBc/s1600/A+Hora+do+Pesadelo+4+-+O+Mestre+dos+Sonhos.jpg" group-title="LETRA H;CLASSICO;SUSPENSE;TERROR;1988",A Hora do Pesadelo 4: O Mestre dos Sonhos
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l_cGKztGFbI/UP7i3HCcFBI/AAAAAAAAXl8/AgRx_xmXNBc/s1600/A+Hora+do+Pesadelo+4+-+O+Mestre+dos+Sonhos.jpg" group-title="LETRA H;CLASSICO;SUSPENSE;TERROR;1988;14 anos",A Hora do Pesadelo 4: O Mestre dos Sonhos
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL04.mp4?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0UxNTZN.jpg" group-title="LETRA H;CLASSICO;SUSPENSE;TERROR;1989",A Hora do Pesadelo 5: O Maior Horror de Freddy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0UxNTZN.jpg" group-title="LETRA H;CLASSICO;SUSPENSE;TERROR;1989;14 anos",A Hora do Pesadelo 5: O Maior Horror de Freddy
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL05.mp4?
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-LoodlccTQ98/VNgi04_fA0I/AAAAAAAAAb0/Ws-4UbWX274/s1600/A%2BHora%2BDo%2BPesadelo%2B6.jpg" group-title="LETRA H;CLASSICO;SUSPENSE;TERROR;1991",A Hora do Pesadelo 6: Pesadelo Final - A Morte de Freddy
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL06.mp4?
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-8GwXkHjXrD0/VCYF9OtRobI/AAAAAAAAC9s/Zr6ehrOOWMA/s1600/A-Hora-do-Pesadelo-Torrent.jpg" group-title="LETRA H;SUSPENSE;TERROR;2010",A Hora do Pesadelo
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-8GwXkHjXrD0/VCYF9OtRobI/AAAAAAAAC9s/Zr6ehrOOWMA/s1600/A-Hora-do-Pesadelo-Torrent.jpg" group-title="LETRA H;SUSPENSE;TERROR;2010;14 anos",A Hora do Pesadelo
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDPSDL08.mp4?
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-epE6iMvmRJQ/UhbbWQW5-6I/AAAAAAAAGvc/Z-ygSH_KPM4/s1600/A+Hora+do+Rush+1.jpg" group-title="LETRA H;AÇAO;COMEDIA;POLICIAL;1998;11 anos",A Hora do Rush
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AHRDRSH01.mp4?
@@ -563,6 +623,8 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/APQNSRAFILME02.mp4?
 http://assistir.querofilmehd.com/filmes/O.Pequeno.Principe.2015.1080p.BluRay.x264-MT.DUAL-RK.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yqKnoIa.jpg" group-title="LETRA P;AVENTURA;CLASSICO;FICÇAO;1970;10 anos",Planeta dos Macacos: De Volta ao Planeta dos Macacos
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PLNTDSMCMCS2.mp4?
+#EXTINF:-1 tvg-logo="http://planetadosmacacos.url.ph/wp-content/uploads/2014/05/CAPA-DO-FILME-FUGA-DO-PLANETA-DOS-MACACOS-1971-JUNIOR-DVDS-DESIGNER.jpeg" group-title="LETRA P;AVENTURA;CLASSICO;FICÇAO;1971;10 anos",Planeta das Macacos: Fuga do Planeta dos Macacos
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PLNTDSMCMCS3.mp4?
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6X9QLBkJ4DU/ViL8nTEnfwI/AAAAAAAAA2E/q0qBOBSFVVs/s300/Conquista%2Bdo%2BPlaneta%2Bdos%2BMacacos%2B-%2Bwww.tiodosfilmes.com-.jpg" group-title="LETRA P;AVENTURA;CLASSICO;FICÇAO;1972;10 anos",Planeta ds Macacos: A Conquista do Planeta 
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PLNTDSMCMCS4.mp4?
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-UAMN2ARCK5E/VeYeLa0PfKI/AAAAAAAADZk/2sVtxr0HVGY/s1600/A%2BBatalha%2Bdo%2BPlaneta%2Bdos%2BMacacos.jpg" group-title="LETRA P;AVENTURA;CLASSICO;FICÇAO;1974;10 anos",Planeta das Macacos: A Batalha
