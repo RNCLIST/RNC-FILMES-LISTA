@@ -926,8 +926,6 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASGVKNG.mp4?
 http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ASLVCAO.mp4?
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/9p8SQYNazWavpMzhN0OIuZm0HgI.jpg" group-title="LANÇAMENTO;LETRA S;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2017;LIVRE",Sahara
 http://assistir.querofilmehd.com/filmes/Sahara.2017.1080p.WEBRip.x264.DD5.1.DUAL-SynysteR.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/10/27/11/39/443790.jpg" group-title="LETRA S;COMEDIA;FAROESTE;2015;12 anos",Os Seis Ridiculos
-http://assistir.querofilmehd.com/filmes/The.Ridiculous6.2015.NF.WEBRip.DD5.1.Dual.720p.x264-PiA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nIDEWSO.jpg" group-title="LETRA S;AVENTURA;FICÇAO;2015;12 anos",A Serie Divergente: Insurgente
 http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ASREDVRGNTISRGNT.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aJSZNc5.jpg" group-title="LETRA S;AVENTURA;FICÇAO;2016;12 anos", A Serie Divergente: Convergente
@@ -1007,6 +1005,8 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AVLTDJZFNL.mp4?
 ########## LETRA Z ##########
 
 ########## LETRA # ##########
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/10/27/11/39/443790.jpg" group-title="LETRA S;COMEDIA;FAROESTE;2015;12 anos",Os 6 Ridiculos
+http://assistir.querofilmehd.com/filmes/The.Ridiculous6.2015.NF.WEBRip.DD5.1.Dual.720p.x264-PiA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dwQx9pN.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1962;12 anos",007: Contra o Satanico Dr No
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071962CNTROSTNC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8l2H6y.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1964;12 anos",007: Contra Goldfinger
