@@ -21,7 +21,7 @@ http://0.0.0.0
 
 ########## ANO ##########
 
-#EXTINF:-1 tvg-logo="" group-title="1960;1961;1962;1963;1964;1965;1966;1967;1968;1969;1970;1971;1972;1973;1974;1975;1976;1977;1978;1979;1980;1981;1982;1983;1984;1985;1986;1987;1988;1989;1990;1991;1992;1993;1994;1995;1996;1997;1998;1999;2000;2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016;2017;2018;2019;2020";
+#EXTINF:-1 tvg-logo="" group-title="1950;1951;1952;1953;1954;1955;1956;1857;1958;1959;1960;1961;1962;1963;1964;1965;1966;1967;1968;1969;1970;1971;1972;1973;1974;1975;1976;1977;1978;1979;1980;1981;1982;1983;1984;1985;1986;1987;1988;1989;1990;1991;1992;1993;1994;1995;1996;1997;1998;1999;2000;2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016;2017;2018;2019;2020";
 
 ########## LANÇAMENTO, LETRAS ##########
 
@@ -33,6 +33,32 @@ http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/16/03/24/09/11/213315.jpg" group-title="LEGENDADO;LANÇAMENTO;AÇAO;ANIMAÇAO;AVENTURA;CLASSICO;COMEDIA;DOCUMENTARIO;DRAMA;FANTASIA;FAROESTE;FICÇAO;GUERRA;MUSICAL;POLICIAL;ROMANCE;SUSPENSE;TERROR;LETRA A;LETRA B;LETRA C;LETRA D;LETRA E;LETRA F;LETRA G;LETRA H;LETRA I;LETRA J;LETRA K;LETRA L;LETRA M;LETRA N;LETRA O;LETRA P;LETRA Q;LETRA R;LETRA S;LETRA T;LETRA U;LETRA V;LETRA W;LETRA X;LETRA Y;LETRA Z;LETRA #;LIVRE;10 anos;11 anos;12 anos;13 anos;14 anos;15 anos;16 anos;17 anos;18 anos;1960;1961;1962;1963;1964;1965;1966;1967;1968;1969;1970;1971;1972;1973;1974;1975;1976;1977;1978;1979;1980;1981;1982;1983;1984;1985;1986;1987;1988;1989;1990;1991;1992;1993;1994;1995;1996;1997;1998;1999;2000;2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016;2017;2018;2019;2020;", As Aventuras de Robinson Crusoe
 https://pgli2q.oloadcdn.net/dl/l/kFNFmgcYUHCIfQSz/qnn5hWcyZn0/As+Aventuras+de+Robinson+Cruso%C3%A9+720p+%282017%29+Dublado+BluRay+--+By+-+Lucas+Firmo.mp4?mime=true
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/01/05/01/36/345717.jpg" group-title="LANÇAMENTO;LETRA B;ANIMAÇAO;2016;LIVRE",A Bailarina
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABLRN.mp4
+#EXTINF:-1 tvg-logo="http://redehumanizasus.net/sites/default/files/Noiva%20Cad%C3%A1ver.jpg" group-title="LETRA A;ANIMAÇAO;AVENTURA;2005;11 anos",A Noiva Cadaver
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ANOIVCDVER.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/96/27/38/20456822.jpg" group-title="LETRA N;TERROR;SUSPENSE;1999;14 anos",A Noiva de Chucky
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ANVDCHCKY.mp4?
+#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/JLA-Adventures-Trapped-in-Time-images-8728a5d1-61a8-4fae-b7fb-885fd906774.jpg" group-title="LETRA A;ANIMAÇAO;AVENTURA;FANTASIA;2014;10 anos",Aa Aventuras Da Liga Da Justiça: Armadilha Do Tempo
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASAVNTRSDLGDJSTCARMD.mp4
+#EXTINF:-1 tvg-logo="http://pupilasembrasas.com.br/wp-content/uploads/2014/09/103.jpg" group-title="LETRA A;ANIMAÇAO;AVENTURA;FANTASIA;2014;LIVRE",As Aventuras de Peabody e Sherman
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASAVNTSDPABYESHRM.mp4
+#EXTINF:-1 tvg-logo="http://www.mangpong.co.th/ProductImage/product/016658.jpg" group-title="LETRA A;ANIMAÇAO;AVENTURA;FANTASIA;2013;LIVRE",As Aventuras de Scooby-Doo: O Mapa Misterioso
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/SCBDFLM21.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K0MVEhG.png" group-title="LETRA T;AÇAO;AVENTURA;CLASSICO;COMEDIA;FANTASIA;1990;10 anos",As Tartarugas Ninja
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJS1.mp4?
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/8a/6b/a3/8a6ba367d02a75d5e735c91be4a72a7a--ninja--teenage-mutant-ninja-turtles.jpg" group-title="LETRA T;AÇAO;AVENTURA;COMEDIA;CLASSICO;FANTASIA;1991;10 anos",As Tartarugas Ninja 2: O Segredo do Ooze
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJS2.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7BLDQ4.jpg" group-title="LETRA T;AÇAO;AVENTURA;CLASSICO;COMEDIA;FANTASIA;1992;10 anos",As Tartarugas Ninja 3
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJS3.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88EFIMm.jpg" group-title="LETRA T;AÇAO;AVENTURA;COMEDIA;FANTASIA;2007;10 anos",As Tartarugas Ninja: O Retorno
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJSDESENHO.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOMtS8R.jpg" group-title="LETRA T;AÇAO;AVENTURA;COMEDIA;FANTASIA;2014;10 anos",As Tartarugas Ninja
+http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ASTARTGUSNJS.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zDoLq9v.jpg" group-title="LETRA T;AÇAO;AVENTURA;COMEDIA;FANTASIA;2016;10 anos",As Tartarugas Ninja: Fora das Sombras
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJSFRDSSMBRS.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/09/18/15/14/545941.jpg" group-title="LANÇAMENTO;LETRA A;ANIMAÇAO;DRAMA;2017;13 anos",Abril e o Mundo Extraordinario
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ABRLEOMSNEXTR.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/92/45/32/20200728.jpg" group-title="LETRA A;DRAMA;SUSPENSE;TERROR;1998;16 anos",Advogado do Diabo
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ADVGDIAB.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/92/45/53/20200819.jpg" group-title="LETRA A;AÇAO;FICÇAO;2006;14 anos",AEon Flux
@@ -41,12 +67,26 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AERNFLX.mp4?
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AGNTMRIM.mp4?
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/aguas-rasas.jpg" group-title="LETRA A;DRAMA;SUSPENSE;TERROR;2016;14 anos",Aguas Rasas 
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AGUSRAS.mp4?
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/60/81/5e/60815e5067ce8be81c8297655abdd019--akira-film-akira-poster.jpg" group-title="LETRA A;ANIMAÇAO;CLASSICO;1988;10 anos",Akira
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/AKIRA.mp4
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/alem-da-realidade.jpg" group-title="LETRA A;DRAMA;SUSPENSE;TERROR;2016;14 anos",Alem Da Realidade
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ALMDRLD.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1InHedr.jpg" group-title="LETRA A;AVENTURA;FANTASIA;2016;LIVRE",Alice Atraves do Espelho
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ALCATRVSDESLHO.mp4?
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-CFr94QicVbw/V0kiXgflZnI/AAAAAAAAE9w/w8v7UmR-MFAbCgrs_A5M1tpcMQkuN9f_wCLcB/s1600/zsqyJqDr4jGAvVV9fC2iTvcMbS9.jpg" group-title="LETRA A;ANIMAÇAO;AVENTURA;FANTASIA;CLASSICO;1951;LIVRE",Alice no Pais das Maravilhas
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ALCNPSDSMRVLHS1951.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/16/10/11/11/08/377645.jpg" group-title="LANÇAMENTO;LETRA A;FICÇAO;SUSPENSE;TERROR;2017;16 anos",Alien: Covenant
 http://assistir.querofilmehd.com/filmes/Alien.Covenant.2017.1080p.BluRay.x264-SPARKS.dual.BRHD.mp4
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/aloha-scooby-doo.21670.jpg" group-title="LETRA A;ANIMAÇAO;AVENTURA;FANTASIA;2005;LIVRE",Aloha Scooby Doo 
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/SCBDFLM08.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/95/28/62/20394609.jpg" group-title="LETRA A;ANIMAÇAO;AVENTURA;MUSICAL;2008;LIVRE",Alvin e os Esquilos
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS1.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/87/31/33/19874208.jpg" group-title="LETRA A;ANIMAÇAO;AVENTURA;MUSICAL;2009;LIVRE",Alvin e os Esquilos 2
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS2.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-STVT4izTtPg/TwuTv2vywDI/AAAAAAAAAqY/qJ6fxlVATrE/s1600/Alvin3.jpg" group-title="LETRA A;ANIMAÇAO;AVENTURA;MUSICAL;2012;LIVRE",Alvin e os Esquilos 3
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULS3.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-EJYOqwLOiQs/VnNeSb_vnMI/AAAAAAAANDc/ayqfIPmF-vk/s1600/alvin%2Be%2Bos%2Besquilos%2Bna%2Bestrada.jpg" group-title="LETRA A;ANIMAÇAO;AVENTURA;MUSICAL;2015;LIVRE",Alvin e os Esquilos 4: Na Estrada
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ALVNEOSESQULSNESTRD.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/07/24/20/15/139521.jpg" group-title="LETRA A;DRAMA;FANTASIA;2015;14 anos",Amaldiçado
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMLSCADO.mp4?
 #EXTINF:-1 tvg-logo="http://media2.popsugar-assets.com/files/2010/02/07/4/192/1922283/4e2017974bff428e_Movie-Poster-American-Pie.xxxlarge/i/American-Pie-4-May-Works-2010-02-18-113058.jpg" group-title="LETRA A;COMEDIA;1999;16 anos",American Pie: A Primeira Vez e Inesquecivel
@@ -73,7 +113,7 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AMREAMZD.mp4?
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AMRERVLC.mp4?
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/amor-sem-pecado.jpg" group-title="LETRA A;DRAMA;ROMANCE;2015;16 anos",Amor Sem Pecado
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jOodHAW.jpg" group-title="LETRA A;ANIMAÇAO;AVENTURA;COMEDIA;2016;LIVRE",Angry Birds
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ANGRYBRDSFLM.mp4?
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ANGRYBRDSFLM.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qijUabg.jpg" group-title="LETRA A;AÇAO;FICÇAO;TERROR;2003;14 anos",Anjos da Noite 1: Underworld
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ANJSDNT1.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0LKaRq4.jpg" group-title="LETRA A;AÇAO;FICÇAO;TERROR;2006;14 anos",Anjos da Noite 2: A Evolução
@@ -100,6 +140,8 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASASINOAPRCFX.mp4?
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASASINOAPRCFX2.mp4?
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/assassino-invisivel.jpg" group-title="LETRA A;SUSPENSE;TERROR;2014;16 anos",Assassino Invisivel
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASSNINVSL.mp4?
+#EXTINF:-1 tvg-logo="https://100grana.files.wordpress.com/2009/08/astroboy_19.jpg" group-title="LETRA A;ANIMAÇAO;AVENTURA.FANTASIA;2009;LIVRE",Astro Boy
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ASTRBOY.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/11/21/15/29/457312.jpg" group-title="LANÇAMENTO;LETRA A;DOCUMENTARIO;DRAMA;GUERRA;2017;16 anos",Ate o Ultimo Homem
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ATOULHMN.mp4?
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-_hozFIKqLvs/VvVlpL1V1zI/AAAAAAABkIU/4-2eS9nPZdkVdYuFyr9lc-inYZLdwRYgQ/s1600/1.jpg" group-title="LETRA A;AVENTURA;FANTASIA;FICÇAO;2009;11 anos",Avatar
@@ -245,8 +287,8 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CACFNTSM2016.mp4?
 https://str03.vidoza.net/kipkdtbavgmthhxduo3e5bqps7mvzmdk2cunxv3xp3tfwwrov7fqujedhg5q/v.mp4
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/cacadores-de-dragoes.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;SUSPENSE;2008;LIVRE",Caçadores de Dragoes
 http://185.38.12.42/sec/1503954145/3735303437f9df5b4995cd94b2e6e983547d87cfd9ba8af6/ivs/f9/a2/93f1a9947fc6/hls/tracks-1,4/index.m3u8
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/03/03/23/40/466137.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;FANTASIA;2015;LIVRE",Cada um na sua Casa
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CSUMNSUACS.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/15/03/03/23/40/466137.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;FANTASIA;2015;LIVRE",Cada Um Na Sua Casa
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CSUMNSUACS.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/W1hcPMT.jpg?1" group-title="LETRA C;COMEDIA;DRAMA;2015;14 anos",Caipira
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CAIPIRA.mp4?
 #EXTINF:-1 tvg-logo="https://img.fstatic.com/ZE_2vsetcKurd79K64eI6AYanjg=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2017/03/Call-to-Duty-Fora-de-Alcance.jpg" group-title="LETRA C;ANIMAÇAO;FICÇAO;GUERRA;2016;14 anos",Call to Duty: Fora de Alcance 
@@ -257,8 +299,8 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CLVRIO.mp4?
 http://185.38.12.59/sec/1503954033/32363533aa053931ff33d4d379542cc96ea6b16bc3c42f82/ivs/4c/f2/0337469173c2/hls/tracks-1,4/index.m3u8
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/09/19/00/29/464478.jpg" group-title="LETRA C;AVENTURA;FANTASIA;2014;11 anos",Caminhos da Floresta
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CMNHSDFLRST.mp4?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IishYF7.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;FANTASIA;2016;LIVRE",Cantando de Galo
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CATNDGL.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/07/27/12/37/174206.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;FANTASIA;2016;LIVRE",Cantando de Galo
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CATNDGL.mp4
 #EXTINF:-1 tvg-logo="http://www.hostgeek.net.br/wp-content/uploads/2017/07/CAPITAO-AMERICA-O-PRIMEIRO-VINGADOR.jpg" group-title="LETRA C;AÇAO;FICÇAO;2011;10 anos",Capitao America : O Primeiro Vingador
 http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CAPTAMRC1.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/02/03/20/36/257136.jpg" group-title="LETRA C;AÇAO;FICÇAO;2014;10 anos",Capitao America 2: O Soldado Invernal
@@ -288,7 +330,7 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CSTLDMD.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3nF3oCT.jpg" group-title="LETRA C;AVENTURA;DRAMA;2012;10 anos",Cavalo de Guerra
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CVLDGUR.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upxOtgk.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2006;LIVRE",Cegonhas: A Historia que Nao te Contaram
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CGNHSAHSTQNTC.mp4?
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CGNHSAHSTQNTC.mp4
 #EXTINF:-1 tvg-logo="http://sm2.imgs.sapo.pt/mb/y/W/7/g0nIkZ-4ufADlKnys2BmPNBo_.jpg" group-title="LETRA C;AÇAO;2010;14 anos",Centuriao
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CNTRAO.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/frk40io.jpg" group-title="LETRA C;DRAMA;2014;LIVRE",Ceu e de Verdade
@@ -307,6 +349,10 @@ http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/CQNTATNSDPRT.mp4?
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CMEUERANTSDVC.mp4?
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-AXisPLIse8I/U8WIlUAXFfI/AAAAAAAAKj4/Fr3utwDOQgg/s1600/Como+Se+Fosse+a+Primeira+Vez.jpg" group-title="LETRA C;COMEDIA;ROMANCE;2004;12 anos",Como Se Fosse a Primeira Vez
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/CMSFSAPRMVZ.mp4?
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zVPJFzvhlig/UiZUJll1jAI/AAAAAAAABIs/uQh1jboIa-Q/s1600/Como+Treinar+o+Seu+Dragao.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;FANTASIA;2014;LIVRE",Como Treinar o Seu Dragao
+http://cdnv6.ec.cx/RedeCanais/RCServer08/ondemand/CMTRNRDRG.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/05/27/21/27/291561.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;FANTASIA;2010;LIVRE",Como Treinar o Seu Dragao 2
+http://cdnv2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/CMTRNRDRG2.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7Li77cVkYARQtzWqcED0gtHnebd.jpg" group-title="LETRA C;AÇAO;GUERRA;2013;14 anos",Compania de Herois
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/COMPNYOHROS.mp4?
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kPd07SX.jpg" group-title="LANÇAMENTO;LETRA C;DRAMA;2017;11 anos",Coragem em Campo
@@ -936,8 +982,6 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/NRVUJSR.mp4?
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NOE.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Su0b89v.jpg" group-title="LETRA N;AÇAO;DRAMA;POLICIAL;SUSPENSE;16 anos",Noite Sem Fim
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NTSMFM.mp4?
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/96/27/38/20456822.jpg" group-title="LETRA N;TERROR;SUSPENSE;1999;14 anos",A Noiva de Chucky
-http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ANVDCHCKY.mp4?
 #EXTINF:-1 tvg-logo="http://www.kritikanstvo.ru/movies/w/wellneverhaveparis/posters/wellneverhaveparis_180590.jpg" group-title="LETRA N;COMEDIA;ROMANCE;2015;14 anos",Nos Nunca Teremos Paris
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/NSNCTRMSPRS.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w0JSQHU.jpg" group-title="LETRA N;SUSPENSE;2016;14 anos",Nosso Fiel Traidor
@@ -980,6 +1024,8 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OLHDML.mp4?
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OPRGMA.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/03/02/17/02/246001.jpg" group-title="LETRA O;AÇAO;CLASSICO;1973;12 anos",O Voo do Dragao
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/OVODRGO.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/10/27/11/39/443790.jpg" group-title="LETRA S;COMEDIA;FAROESTE;2015;12 anos",Os 6 Ridiculos
+http://assistir.querofilmehd.com/filmes/The.Ridiculous6.2015.NF.WEBRip.DD5.1.Dual.720p.x264-PiA.mp4
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ba6jk_0Suvw/Waib35ejL-I/AAAAAAACIfs/keohhzZNqksZD9CJGX0dgMwWthvROC4cQCLcBGAs/s1600/Os%2BCa%25C3%25A7a-Fantasmas%2B2.jpg" group-title="LETRA O;AVENTURA;CLASSICO;FANTASIA;1989;10 anos",Os Caça-Fantasmas 2
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/CACFNTSM2.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BuWwXw5.jpg" group-title="LETRA O;AVENTURA;2016;12 anos",Os Caçadores
@@ -1090,18 +1136,7 @@ http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/animacoes/SBPUBLICO-
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/JORNDMSESTRLS12.mp4?
 
 ########## LETRA T ##########
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K0MVEhG.png" group-title="LETRA T;AÇAO;AVENTURA;CLASSICO;COMEDIA;FANTASIA;1990;10 anos",As Tartarugas Ninja
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJS1.mp4?
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/8a/6b/a3/8a6ba367d02a75d5e735c91be4a72a7a--ninja--teenage-mutant-ninja-turtles.jpg" group-title="LETRA T;AÇAO;AVENTURA;COMEDIA;CLASSICO;FANTASIA;1991;10 anos",As Tartarugas Ninja 2: O Segredo do Ooze
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJS2.mp4?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7BLDQ4.jpg" group-title="LETRA T;AÇAO;AVENTURA;CLASSICO;COMEDIA;FANTASIA;1992;10 anos",As Tartarugas Ninja 3
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJS3.mp4?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/88EFIMm.jpg" group-title="LETRA T;AÇAO;AVENTURA;COMEDIA;FANTASIA;2007;10 anos",As Tartarugas Ninja: O Retorno
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJSDESENHO.mp4?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOMtS8R.jpg" group-title="LETRA T;AÇAO;AVENTURA;COMEDIA;FANTASIA;2014;10 anos",As Tartarugas Ninja
-http://vd.ec.cx/vd/dd/RC/RCFServer2/ondemand/ASTARTGUSNJS.mp4?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zDoLq9v.jpg" group-title="LETRA T;AÇAO;AVENTURA;COMEDIA;FANTASIA;2016;10 anos",As Tartarugas Ninja: Fora das Sombras
-http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/ASTARTGUSNJSFRDSSMBRS.mp4?
+
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_640_600/b_1_d6d6d6/pictures/210/468/21046818_20131004140133911.jpg" group-title="LETRA T;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2005;LIVRE",Tarzan 2 - A Lenda Continua
 http://assistir.querofilmehd.com/filmes/Tarzan.II.2005.1080p.WEB-DL.DD5.1.H264-LCDS.DUAL-PR.mp4
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-lNtY8tIdqFY/VOE0Q7hpWNI/AAAAAAAACAc/PFADK65oW2E/s1600/The-Theory-of-Everything-Poster-2.jpg" group-title="LETRA T;DRAMA;2015;10 anos",A Teoria de Tudo
@@ -1149,8 +1184,9 @@ http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AVLTDJZFNL.mp4?
 ########## LETRA Z ##########
 
 ########## LETRA # ##########
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/10/27/11/39/443790.jpg" group-title="LETRA S;COMEDIA;FAROESTE;2015;12 anos",Os 6 Ridiculos
-http://assistir.querofilmehd.com/filmes/The.Ridiculous6.2015.NF.WEBRip.DD5.1.Dual.720p.x264-PiA.mp4
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-kx8AXX4CFHQ/TyOfcE-Z5MI/AAAAAAAAC-w/GjI2sUoOnVM/s1600/9_a-salvacao_poster.jpg" group-title="LETRA #;ANIMAÇAO;AVENTURA;DRAMA;GUERRA;2009;11 anos",9: A Salvaçao
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASLVCAO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dwQx9pN.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1962;12 anos",007: Contra o Satanico Dr No
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071962CNTROSTNC.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8l2H6y.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1964;12 anos",007: Contra Goldfinger
@@ -1213,6 +1249,8 @@ http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/300AASCSDIMPRO.mp4?
 http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/1941UGML.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cr79WhC.jpg" group-title="LETRA #;AÇAO;AVENTURA;DRAMA;FICÇAO;2009;12 anos",2012
 http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/2012.mp4?
+#EXTINF:-1 tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/db/30c2a014949f646d43c4bf1b21da96c3_500x735.jpg" group-title="LETRA #;AÇAO;AVENTURA;FICÇAO;LANÇAMENTO;2017;13 anos",10000 Anos Depois
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/1000ANSDPS.mp4
 
 ########## LEGENDADO ##########
 
