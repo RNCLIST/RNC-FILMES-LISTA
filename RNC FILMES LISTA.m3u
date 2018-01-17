@@ -56,7 +56,7 @@ http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ALNDETRZN.mp4?
 https://str09.vidoza.net/kipkkupyq6mthhxdupcu7wy3swmof3imflejkezhtoahuoibczjrm4revp2q/v.mp4
 #EXTINF:-1 tvg-logo="http://cdn3.gbtimes.com/cdn/farfuture/gHRTnftT8CYMMeA_Ozr9tVyoiiIrytz4Mqr4NG2bzfI/mtime:1462519789/sites/default/files/monkey-king-heroisback-poster.jpg" group-title="LETRA L;AÇAO;AVENTURA;COMEDIA;FANTASIA;2014;10 anos",A Lenda do Rei Macaco 
 http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ALNDRMC.mp4?
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-D1Df_XXv4Bk/WH6w-rxSkqI/AAAAAAAAFBM/zltWQ_ofQG066CfoGgsE5d8zS3bYm8ZcQCLcB/s1600/xi_you_ji_zhi_sun_wu_kong_san_da_bai_gu_jing-436167342-large.jpg" group-title="LETRA L;AÇAO;AVENTURA;COMEDIA;FANTASIA;2014;10 anos",A Lenda do Rei Macaco 2: Viagem ao Oeste (2016)
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-D1Df_XXv4Bk/WH6w-rxSkqI/AAAAAAAAFBM/zltWQ_ofQG066CfoGgsE5d8zS3bYm8ZcQCLcB/s1600/xi_you_ji_zhi_sun_wu_kong_san_da_bai_gu_jing-436167342-large.jpg" group-title="LETRA L;AÇAO;AVENTURA;COMEDIA;FANTASIA;2016;10 anos",A Lenda do Rei Macaco 2: Viagem ao Oeste
 http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/ALNDRMC2.mp4?
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-WpPyv_yeTos/UjsLrU14MVI/AAAAAAAAB14/cNwcddu6WZU/s1600/A+Morte+do+Superman.jpg" group-title="LETRA M;AÇAO;ANIMAÇAO;AVENTURA;FANTASIA;2009;10 anos",A Morte do Superman
 http://zeus.netcine.tv/sobdemanda/netcine-bucket/filmes2016/animacoes/SUPDOOMS-ALTO.mp4
@@ -1408,6 +1408,8 @@ http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SMRIXOINFRNDKOTO.m
 http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/SNGAZL.mp4?
 #EXTINF:-1 tvg-logo="https://www.justwatch.com/images/poster/439443/s592" group-title="LETRA S;CLASSICO;DRAMA;ROMANCE;1951;13 anos",Sansao e Dalila
 http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/SNSOEDLA.mp4?
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/18/01/09/15/13/3297216.jpg" group-title="LETRA S;ANIMAÇAO;AVENTURA;COMEDIA;2018;LIVRE",Scooby Doo e Batman: Bravos e Destemidos
+http://cdn1.ntcdn.us/httpdelivery/filmes2017/SCOOBYEBATMANDUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://www.pipocagigante.com.br/wp-content/uploads/2015/02/semdireitoaresgate_2-copia.jpg" group-title="LETRA S;COMEDIA;DRAMA;2015;14 anos",Sem Direito A Resgate
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SMDRTARSGT.mp4?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z71aHIH.jpg" group-title="LETRA S;CLASSICO;FAROESTE;1957;13 anos",Sem Lei E Sem Alma
@@ -1658,6 +1660,8 @@ http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/XMENAPCLPSE.mp4?
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASLVCAO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dwQx9pN.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1962;12 anos",007: Contra o Satanico Dr No
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071962CNTROSTNC.mp4
+#EXTINF:-1 tvg-logo="https://cdn.telecineplay.com.br/isl/api/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27139766%27&EntityType=%27Item%27&EntityId=%273471%27&Width=1080&Height=1600" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1963;12 anos",007: Moscou Contra 007
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071963MSCCNT007.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g8l2H6y.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1964;12 anos",007: Contra Goldfinger
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071964CNTRGLDFNG.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIqNEi2.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1965;12 anos",007: Contra a Chantagem Atomica
