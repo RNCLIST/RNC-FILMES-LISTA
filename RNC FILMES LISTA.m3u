@@ -1658,53 +1658,55 @@ http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/XMENAPCLPSE.mp4?
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-kx8AXX4CFHQ/TyOfcE-Z5MI/AAAAAAAAC-w/GjI2sUoOnVM/s1600/9_a-salvacao_poster.jpg" group-title="LETRA #;ANIMAÇAO;AVENTURA;DRAMA;GUERRA;2009;11 anos",9: A Salvaçao
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/ASLVCAO.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dwQx9pN.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1962;12 anos",007: Contra o Satanico Dr No
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dwQx9pN.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1962;12 anos",007: 01 Contra o Satanico Dr No
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071962CNTROSTNC.mp4
-#EXTINF:-1 tvg-logo="https://cdn.telecineplay.com.br/isl/api/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27139766%27&EntityType=%27Item%27&EntityId=%273471%27&Width=1080&Height=1600" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1963;12 anos",007: Moscou Contra 007
+#EXTINF:-1 tvg-logo="http://tr.web.img4.acsta.net/pictures/bzp/01/2019.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1963;12 anos",007: 02 Moscou Contra 007
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071963MSCCNT007.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g8l2H6y.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1964;12 anos",007: Contra Goldfinger
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g8l2H6y.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1964;12 anos",007: 03 Contra Goldfinger
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071964CNTRGLDFNG.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIqNEi2.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1965;12 anos",007: Contra a Chantagem Atomica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIqNEi2.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1965;12 anos",007: 04 Contra a Chantagem Atomica
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071965CNTRACTGMATN.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/88/88/19962580.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1969;12 anos",007: A Serviço Secreto de sua Majestade
+#EXTINF:-1 tvg-logo="https://draltang.files.wordpress.com/2007/11/jamesbond_you-only-live-twice.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1965;12 anos",007: 05 Com 007 So se Vive Duas Vezes
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071967CM007SSVDV.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/88/88/19962580.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1969;12 anos",007: 06 A Serviço Secreto de sua Majestade
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071969ASVCSCRT.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/32/20/19874298.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1971;12 anos",007: Os Diamantes Sao Eternos
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/32/20/19874298.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1971;12 anos",007: 07 Os Diamantes Sao Eternos
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071971OSDAMTS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/90/48/60/20098986.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1973;12 anos",007: Viva e Deixe Morrer
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/90/48/60/20098986.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1973;12 anos",007: 08 Viva e Deixe Morrer
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071973VIVADXMR.mp4?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SlfPQqM.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1974;12 anos",007: Contra o Homem com a Pistola de Ouro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SlfPQqM.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1974;12 anos",007: 09 Contra o Homem com a Pistola de Ouro
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071974CNTROHMN.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/94/25/23/20313919.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1977;12 anos",007: O Espiao Que Me Amava
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/94/25/23/20313919.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1977;12 anos",007: 10 O Espiao Que Me Amava
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071977OESPNHQMA.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XHl1cbH.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1979;12 anos",007: Contra o Foguete da Morte
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHl1cbH.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1979;12 anos",007: 11 Contra o Foguete da Morte
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071979CNTROFGUT.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/25/78/19873625.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1981;12 anos",007: Somente Para Seus Olhos
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/87/25/78/19873625.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1981;12 anos",007: 12 Somente Para Seus Olhos
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071981SMNTPSOLHS.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3TDpBOT.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1983;12 anos",007: Contra Octopussy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3TDpBOT.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1983;12 anos",007: 13 Contra Octopussy
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071983CNTROPCTPS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/94/25/26/20313977.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1983;12 anos",007: Nunca Mais Outra Vez
+#EXTINF:-1 tvg-logo="https://hardtickettohomevideo.files.wordpress.com/2014/07/never-say-never-again-1983-movie-poster.jpg?w=740" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1983;12 anos",007: 14 Nunca Mais Outra Vez
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071983CNTROPCTPS.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8gKJoI9.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1985;12 anos",007: Na Mira dos Assassinos 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8gKJoI9.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1985;12 anos",007: 15 Na Mira dos Assassinos 
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071985NMRDSASNS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/94/25/33/20314060.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1987;12 anos",007: Marcado Para a Morte
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/94/25/33/20314060.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1987;12 anos",007: 16 Marcado Para a Morte
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071987MRCDOMRT.mp4
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-oIgUiZcB6ug/UzrGbQ1SvXI/AAAAAAAAIuM/lBuBThRmZCI/s1600/007+-+O+Amanha+Nunca+Morre.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1987;12 anos",007: Nunca Mais Outra Vez
-http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071983CNTROPCTPS.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/94/25/17/20313814.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1989;12 anos",007: Permissao Para Matar 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/94/25/17/20313814.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1989;12 anos",007: 17 Permissao Para Matar 
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071989PRMSPMTR.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/25/46/19873592.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1995;12 anos",007: Contra Goldeneye
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/25/46/19873592.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1995;12 anos",007: 18 Contra Goldeneye
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071995CNTRGLDNE.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/30/81/19874153.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1999;12 anos",007: O Mundo Nao e o Bastante
+#EXTINF:-1 tvg-logo="http://static.tvtropes.org/pmwiki/pub/images/tnd.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1997;12 anos",007: 19 O Amanha Nunca Morre
+http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071997OAMNHNCM.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/87/30/81/19874153.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;1999;12 anos",007: 20 O Mundo Nao e o Bastante
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0071999OMNDNAOEOBST.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/89/50/59/20304522.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;2003;12 anos",007: Um Novo Dia Para Morrer
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/89/50/59/20304522.jpg" group-title="LETRA #;AÇAO;CLASSICO;POLICIAL;2003;12 anos",007: 21 Um Novo Dia Para Morrer
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0072002UNDPM.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/81Ron0g.jpg" group-title="LETRA #;AÇAO;CLASSICO;2006;12 anos",007: Cassino Royale 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81Ron0g.jpg" group-title="LETRA #;AÇAO;CLASSICO;2006;12 anos",007: 22 Cassino Royale 
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0072006CSNRYL.mp4
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/86/94/32/19870362.jpg" group-title="LETRA #;AÇAO;CLASSICO;2008;12 anos",007: Quantum of Solace 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/86/94/32/19870362.jpg" group-title="LETRA #;AÇAO;CLASSICO;2008;12 anos",007: 23 Quantum of Solace 
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0072008QNTOFSLC.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iU2lXdQ.png" group-title="LETRA #;AÇAO;CLASSICO;2012;12 anos",007: Operaçao Skyfall
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iU2lXdQ.png" group-title="LETRA #;AÇAO;CLASSICO;2012;12 anos",007: 24 Operaçao Skyfall
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0072012SKYFL.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tKD4DcL.jpg" group-title="LETRA #;AÇAO;CLASSICO;2015;12 anos",007: Contra Spectre 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKD4DcL.jpg" group-title="LETRA #;AÇAO;CLASSICO;2015;12 anos",007: 25 Contra Spectre 
 http://cdnv13.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/0072016CNTRSPCTR.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/05/23/19/38/040749.jpg" group-title="LETRA #;SUSPENSE;TBREVE;2016;15 anos",12 Horas para Sobreviver: O Ano Da Eleiçao
 http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/UMNTDCRM3.mp4?
