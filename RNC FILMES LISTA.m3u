@@ -1,8 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CURTA A PÁGINA NO FB",RNC SERIES DUBLADAS
+
+#PLAYLISTV: pltv-logo="https://i.imgur.com/FdzwgzG.png" pltv-name="STAN BOX" pltv-description="LISTA DE FILMES" pltv-cover="https://i.imgur.com/MVIh6T4.jpg" pltv-author="NZ TECH" pltv-site="http://staniptv.com" pltv-whats="" pltv-phone="(61)99645646"
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iQ3dEVB.png" group-title="INFORMAÇÕES DA LISTA", STAN BOX Atualizada 19/01/2018 ás 15:01
+http://fb.com/STANIPTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OjbPRdl.jpg" group-title="INFORMAÇÕES DA LISTA",TEMOS LISTA PREMIUM COM TODOS OS CANAIS LIBERADOS
 http://0.0.0.0
-#EXTINF:-1 tvg-logo="" group-title="CURTA O CANAL DO YOUTUBE", http://bit.ly/CamilloYOU
-http://0.0.0.0
+#EXTINF:1 tvg-logo="https://i.imgur.com/OjbPRdl.jpg" group-title="INFORMAÇÕES DA LISTA", QUER TESTAR? SÓ CHAMAR NO WHATSAPP 6199645646
+http://0.0.0.0 
+#EXTINF:-1 tvg-logo=http://i.imgur.com/6ecHKbb.png" group-title="INFORMAÇÕES DA LISTA", 61 999645646 - WhatsApp  
+61 999645646
+#EXTINF:-1 tvg-logo=http://i.imgur.com/pSxxdC7.png" group-title="INFORMAÇÕES DA LISTA", fb.com/staniptv - Curta no Facebook 
+http://fb.com/STANIPTV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0kE8BgZ.png" group-title="INFORMAÇÕES DA LISTA", www.staniptv.com - Site Oficial
+www.staniptv.com 
+#EXTINF:-1 tvg-logo=http://i.imgur.com/6ecHKbb.png" group-title="INFORMAÇÕES DA LISTA", Mande Sua Sugestao no WhatsApp 
+61 999645646
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-i-gjcwn2PwQ/VsNeul40lMI/AAAAAAAAAkE/In4UelZraw0/s320/link_quebrado.png" group-title="INFORMAÇÕES DA LISTA",LINK OFF? AVISE-NOS
+http://0.0.0.0 
 
 
 ########## CATEGORIAS ##########
