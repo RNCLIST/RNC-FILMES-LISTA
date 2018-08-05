@@ -41,7 +41,10 @@ https://pgli2q.oloadcdn.net/dl/l/kFNFmgcYUHCIfQSz/qnn5hWcyZn0/As+Aventuras+de+Ro
 http://cdn-srv1.unitplay.net/stream/720/331588-the-great-gilly-hopkins.mp4
 #EXTINF:-1 tvg-logo="http://netcine.us/wp-content/uploads/2017/03/253076.jpg" group-title="LETRA A;AÇAO;AVENTURA;FANTASIA;2017;11 anos",A Grande Muralha
 http://cdn-srv1.unitplay.net/stream/720/311324-the-great-wall.mp4
-
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/15/11/26/19/25/014746.jpg" group-title="LETRA S;DRAMA;FAROESTE;2014;16 anos",A Salvaçao
+http://cdn-srv1.unitplay.net/stream/720/266285-the-salvation.mp4
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-6CDbGCQgdRY/WW4mGUwN2nI/AAAAAAAADRo/NHDmzag5LOQjfC8DuFygvE8OGrqRFEUGwCLcBGAs/s1600/BrimstonePoster.jpg" group-title="LETRA A;FAROESTE;SUSPENSE;TERROR;2017;16 anos",Amaldiçoada 
+http://cdn-srv1.unitplay.net/stream/720/324560-brimstone.mp4
 
 
 
@@ -86,6 +89,8 @@ http://cdn-srv1.unitplay.net/stream/720/671-harry-potter-and-the-philosopher-s-s
 
 ########## LETRA M ##########
 
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/92/78/23/20217432.jpg" group-title="LETRA S;DRAMA;FAROESTE;2014;16 anos",McQuade: O Lobo Solitario
+http://cdn-srv1.unitplay.net/stream/720/14854-lone-wolf-mcquade.mp4
 
 ########## LETRA N ##########
 
@@ -94,7 +99,7 @@ http://cdn-srv1.unitplay.net/stream/720/671-harry-potter-and-the-philosopher-s-s
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EGfCyCP.jpg" group-title="LETRA O;AÇAO;AVENTURA;COMEDIA;FAROESTE;2013;11 anos",O Cavaleiro Solitario
 http://cdn-srv1.unitplay.net/stream/720/57201-the-lone-ranger.mp4
-#EXTINF:-1 tvg-logo="http://www.vortexcultural.com.br/images/2016/02/O-Regresso-poster.jpg" group-title="LETRA O;AÇAO;AVENTURA;COMEDIA;FAROESTE;2013;11 anos",O Regresso
+#EXTINF:-1 tvg-logo="http://www.vortexcultural.com.br/images/2016/02/O-Regresso-poster.jpg" group-title="LETRA O;AÇAO;AVENTURA;COMEDIA;FAROESTE;2016;11 anos",O Regresso
 http://cdn-srv1.unitplay.net/stream/720/281957-the-revenant.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/10/27/11/39/443790.jpg" group-title="LETRA S;COMEDIA;FAROESTE;2015;12 anos",Os 6 Ridiculos
 http://cdn-srv1.unitplay.net/stream/720/347969-the-ridiculous-6.mp4
@@ -112,11 +117,15 @@ http://cdn-srv1.unitplay.net/stream/720/347969-the-ridiculous-6.mp4
 
 ########## LETRA S ##########
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/e4/41/70e4411eae7d5a682433a25be14bb19f.jpg" group-title="LETRA S;AÇAO;DRAMA;FAROESTE;1957;13 anos",Sem Lei e Sem Alma
+http://cdn-srv1.unitplay.net/stream/720/22201-gunfight-at-the-o-k-corral.mp4
 #EXTINF:-1 tvg-logo="https://assets0.minhaserie.com.br//images/highlights/000/030/359/29548.jpg" group-title="LETRA S;AÇAO;DRAMA;FAROESTE;2016;13 anos",Sete Homens e um Destino
 http://cdn-srv1.unitplay.net/stream/720/333484-the-magnificent-seven.mp4
 
 ########## LETRA T ##########
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/f4/1e/70f41e65fbe7b800cb14eb37d0d3a842.jpg" group-title="LETRA T;FAROESTE;1993;14 anos",Tombstone: A Justiça Esta Chegando
+http://cdn-srv1.unitplay.net/stream/720/11969-tombstone.mp4
 
 ########## LETRA U ##########
 
