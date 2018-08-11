@@ -24,7 +24,7 @@ http://0.0.0.0
 
 ########## ANO ##########
 
-#EXTINF:-1 tvg-logo="" group-title="1950;1951;1952;1953;1954;1955;1956;1857;1958;1959;1960;1961;1962;1963;1964;1965;1966;1967;1968;1969;1970;1971;1972;1973;1974;1975;1976;1977;1978;1979;1980;1981;1982;1983;1984;1985;1986;1987;1988;1989;1990;1991;1992;1993;1994;1995;1996;1997;1998;1999;2000;2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016;2017;2018;2019;2020";
+#EXTINF:-1 tvg-logo="" group-title="1937;1938;1939;1940;1941;1941;1942;1943;1944;1945;1946;1947;1948;1949;1950;1951;1952;1953;1954;1955;1956;1857;1958;1959;1960;1961;1962;1963;1964;1965;1966;1967;1968;1969;1970;1971;1972;1973;1974;1975;1976;1977;1978;1979;1980;1981;1982;1983;1984;1985;1986;1987;1988;1989;1990;1991;1992;1993;1994;1995;1996;1997;1998;1999;2000;2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016;2017;2018;2019;2020";
 
 ########## LETRAS ##########
 
@@ -53,8 +53,14 @@ http://network.vstreaming.net/movies/escolhaperfeita3-dub-720p.mp4
 http://network.vstreaming.net/movies/aestreladebelem-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1280_720/pictures/16/09/09/15/22/223080.jpg" group-title="LETRA A;DRAMA;POLICIAL;2017;16 anos",A Lei Da Noite
 http://network.vstreaming.net/movies/aleidanoite-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/32762951/s592/a-origem-dos-guardioes" group-title="LETRA A;ANIMAÇAO;AVENTURA;FANTASIA;2012;LIVRE",A Origem dos Guardioes
+http://network.vstreaming.net/movies/origemguardioes-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/9823122/s592/the-pink-panther" group-title="LETRA A;COMEDIA;2006;11 anos",A Pantera Cor de Rosa (480)
+http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
 #EXTINF:-1 tvg-logo="http://www.cinemosaico.com/wp-content/uploads/2013/12/A-VIDA-SECRETA-DE-WALTER-MITTY.jpg" group-title="LETRA A;AVENTURA;COMEDIA;ROMANCE;2013;14 anos",A Vida Secreta Water Mitty
 http://network.vstreaming.net/movies/waltermitty-leg-720p.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1280_720/pictures/17/10/23/09/09/4066110.jpg" group-title="LETRA A;ANIMAÇAO;AVENTURA;FANTASIA;2017;LIVRE",As Aventuras de Tadeo 2
+http://network.vstreaming.net/movies/aventurasdetadeo2-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/as-branquelas.jpg" group-title="LETRA A;COMEDIA;2004;13 anos",As Branquelas (480p)
 http://media-br-am.crackle.com/1/v/96/931lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zDoLq9v.jpg" group-title="LETRA T;AÇAO;AVENTURA;COMEDIA;FANTASIA;2016;10 anos",As Tartarugas Ninja: Fora das Sombras
@@ -75,6 +81,8 @@ http://network.vstreaming.net/movies/americanpie2-dub-720p.mp4
 http://network.vstreaming.net/movies/americanpie3-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jOodHAW.jpg" group-title="LETRA A;ANIMAÇAO;AVENTURA;COMEDIA;2016;LIVRE",Angry Birds: O Filme
 http://network.vstreaming.net/movies/angrybirds-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8698376/s592/annie" group-title="LETRA A;AVENTURA;CLASSICO;MUSICAL;1982;LIVRE",Annie (480p)
+http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qBm7jVn.jpg" group-title="LETRA A;FANTASIA;AVENTURA;2016;11 anos",Animais Fantasticos e Onde Habitam
 http://network.vstreaming.net/movies/animaisfantasticos-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/18/02/22/15/25/2917796.jpg" group-title="LETRA A;LANÇAMENTO;AÇAO;FICÇAO;SUSPENSE;2018;",Aniquilaçao
@@ -91,7 +99,8 @@ http://network.vstreaming.net/movies/anjosnoitesangue-dub-720p.mp4
 http://network.vstreaming.net/movies/asssassinscreed-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8PSGDSn.jpg" group-title="LETRA A;AÇAO;POLICIAL;2016",Assassino a Preço Fixo 2: A Ressurreiçao
 http://network.vstreaming.net/movies/precofixo-dub-720p.mp4
-
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/9362330/s592/avioes" group-title="LETRA A;ANIMAÇAO;AVENTURA;FANTASIA;2013;LIVRE",Avioes
+http://network.vstreaming.net/movies/avioes-dub-720p.mp4
 
 ########## LETRA B ##########
 
@@ -113,7 +122,8 @@ http://network.vstreaming.net/movies/blade-dub-480p.mp4
 http://network.vstreaming.net/movies/bladetrinity-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/90/53/98/20101535.jpg" group-title="LETRA B;ANIMAÇAO;AVENTURA;COMEDIA;2004;LIVRE",Bob Esponja: O Filme
 http://network.vstreaming.net/movies/bobesponjaofilme-dub-720p.mp4
-
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/20224927/s592/branca-de-neve-e-os-sete-anoes" group-title="LETRA B;ANIMAÇAO;AVENTURA;CLASSICO;FANTASIA;1937;LIVRE",Branca de Neve e os Sete Anoes
+http://network.vstreaming.net/movies/brancadeneve-dub-720p.mp4
 
 ########## LETRA C ##########
 
@@ -159,9 +169,17 @@ http://network.vstreaming.net/movies/esquadraosuicidaacertodecontas-dub-720p.mp4
 
 ########## LETRA F ##########
 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/87/09/17/19889910.jpg group-title="LETRA F;FAÇAO;GUERRA;2012;14 anos",Falcao Negro em Perigo
+http://network.vstreaming.net/movies/falcaonegroemperigo-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/11069680/s592/made-in-america" group-title="LETRA F;COMEDIA;CLASSICO;1996;12 anos",Feito na America
+http://network.vstreaming.net/movies/americanmade-dub-720p.mp4
+
+
 
 ########## LETRA G ##########
 
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/9036101/s592/gigantes-de-aco" group-title="LETRA G:AÇAO;DRAMA;FANTASIA;FICÇAO;2011;10 anos",Gigantes de Aço
+http://network.vstreaming.net/movies/giganteaco-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/04/29/20/17/241305.jpg" group-title="LETRA G;AÇAO;FICÇAO;2014;10 anos",Godzilla (480p)
 http://media-br-am.crackle.com/1/4/f6/v7ylf_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fd/7e/71/fd7e7119836a9e015551779dce4899ec.jpg" group-title="LETRA G;AÇAO;AVENTURA;COMEDIA;FICÇAO;2014;12 anos",Guardioes da Galaxia
@@ -197,6 +215,12 @@ http://network.vstreaming.net/movies/honraomerito-dub-720p.mp4
  
 ########## LETRA I ##########
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/id4/images/b/bb/Independence_day_movieposter.jpg/revision/latest?cb=20100804131929" group-title="LETRA I;ACAO;FICÇAO;SUSPENSE;1996;12 anos",Independence Day 1
+http://network.vstreaming.net/movies/independenceday-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://moviehighlight.files.wordpress.com/2015/11/poster-film-independence-day-resurgence.jpg" group-title="LETRA I;ACAO;FICÇAO;SUSPENSE;2016;12 anos",Independence Day 2: O Ressurgimento
+http://network.vstreaming.net/movies/independenceresurgimento-dub-720p.mp4
+
+
 
 ########## LETRA J ##########
 
@@ -215,7 +239,10 @@ http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4
 http://network.vstreaming.net/movies/massacrenotexas-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-skV9_RlsDCA/UZuadFe-OfI/AAAAAAAAfwc/k-TQqKig4Xc/s1600/LEGO_Batman_The_Movie.jpg" group-title="LETRA L;ANIMAÇAO;AVENTURA;FANTASIA;2017;LIVRE",Lego Batman: O Filme DC Super Herois se Unem
 http://network.vstreaming.net/movies/legobatman-dub-720p.mp4
-
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/74401241/s592/o-lorax-em-busca-da-trufula-perdida" group-title="LETRA L;ANIMAÇAO;AVENTURA;FANTASIA;2012;LIVRE",Lorax
+http://network.vstreaming.net/movies/lorax-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8705076/s592/lucy" group-title="LETRA L;AÇAO;FICÇAO;SUSPENSE;2014",Lucy
+http://network.vstreaming.net/movies/lucy-dub-720p.mp4
 
 ########## LETRA M ##########
 
@@ -239,7 +266,8 @@ http://network.vstreaming.net/movies/mulhermaravilha-dub-720p.mp4
 
 ########## LETRA O ##########
 
-
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8949278/s592/o-aprendiz-de-feiticeiro" group-title="LETRA O;AÇAO;AVENTURA;COMEDIA;FANTASIA;2010;10 anos",O Aprendiz de Feiticeiro
+http://network.vstreaming.net/movies/oaprendizdefeiticeiro-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/16/07/05/15/22/448228.jpg" group-title="LETRA O;AVENTURA;FANTASIA;2016;LIVRE",O Bom Gigante Amigo
 http://network.vstreaming.net/movies/giganteamigo-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/16/10/10/21/56/279974.jpg" group-title="LETRA O;DRAMA;POLICIAL;SUSPENSE;2016;14 anos",O Contador
@@ -278,6 +306,8 @@ http://network.vstreaming.net/movies/semfloresta-dub-720p.mp4
 http://network.vstreaming.net/movies/smurfsvilaperdida-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://i1.wp.com/portalovertube.com/wp-content/uploads/2015/02/vingadores.jpg" group-title="LETRA O;AÇAO;AVENTURA;FICÇAO;2015;10 anos",Os Vingadores: A Era de Ultron
 http://network.vstreaming.net/movies/eradeultron-dub-720p.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/95/15/80/20469008.jpg" group-title="LETRA O;AÇAO;DRAMA;FICÇAO;SUSPENSE;2013;12 anos",Oblivion
+http://network.vstreaming.net/movies/oblivion-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-DeHaxoUNAbI/Vb01eUH7G4I/AAAAAAAAe-Y/fK9NgnnV5sU/s1600/Ong%2BBak.jpg" group-title="LETRA O;AÇAO;AVENTURA;2003;11 anos",Ong Bak 1: Guerreiro Sagrado
 http://media-br-am.crackle.com/1/y/n6/sy2lf_480p.mp4
 
@@ -294,6 +324,8 @@ http://network.vstreaming.net/movies/passageiros-dub-720p.mp4
 http://network.vstreaming.net/movies/pequenagrandevida-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcTumT9xgoy5mT1RICjbjrmOVZVZUleWP2q-hPHZ9HTT5T_Llv9z" group-title="LETRA P;ANIMAÇÃO;AVENTURA;COMEDIA;2017;LIVRE",Pica Pau: O Filme
 http://network.vstreaming.net/movies/picapau-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8743801/s592/pinoquio-1940" group-title="LETRA P;ANIMAÇAO;AVENTURA;CLASSICO;FANTASIA;1941;LIVRE",Pinoquio
+http://network.vstreaming.net/movies/pinoquio-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://pausadrammatica.files.wordpress.com/2014/07/planeta-dos-macacos-o-confronto-poster-nacional.jpg" group-title="LETRA P;AVENTURA;FICÇAO;2014;11 anos",Planeta Dos Macacos: O Confronto
 http://network.vstreaming.net/movies/planetamacacosconfronto-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/16/06/30/20/49/544752.jpg" group-title="LETRA P;ANIMAÇAO;AVENTURA;FANTASIA;2016;LIVRE",Procurando Dory
@@ -329,6 +361,10 @@ http://media-br-am.crackle.com/1/x/f6/23ylf_480p.mp4
 
 ########## LETRA S ##########
 
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8178220/s592/sahara-2017" group-title="LETRA S;ANIMAÇAO;AVENTURA;FANTASIA;2017;LIVRE",Sahara
+http://network.vstreaming.net/movies/saara-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8849827/s592" group-title="LETRA S;ANIMAÇAO;AVENTURA;FANTASIA;2017;LIVRE",Scooby Doo e o Combate do Salsicha
+http://network.vstreaming.net/movies/scoobydoeocombatedesalsicha-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EtEHTvv.jpg" group-title="LETRA S;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2001;LIVRE",Shrek 
 http://network.vstreaming.net/movies/shrek-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://ilarge.lisimg.com/image/177885/740full-shrek-2-poster.jpg" group-title="LETRA S;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2004;LIVRE",Shrek 2
@@ -350,6 +386,8 @@ http://network.vstreaming.net/movies/starwarslastjedi-dub-720p.mp4
 
 ########## LETRA T ##########
 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-o0UTyXBWEC8/UQxbb7ucqMI/AAAAAAAAAJk/S5RJU_ftiVI/s1600/T%C3%A1+Dando+Onda+%E2%80%93+Dual+%C3%81udio+%E2%80%93+720p.jpg" group-title="LETRA T;ANIMAÇAO;AVENTURA;FANTASIA;2007;LIVRE",Ta Dando Onda
+http://network.vstreaming.net/movies/tadandoonda-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/17/11/22/18/04/4103712.jpg" group-title="LETRA T;LANÇAMENTO;2018;DRAMA 14 anos",The Post: A Guerra Secreta
 http://network.vstreaming.net/movies/thepost-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/17/12/05/14/04/5421033.jpg" group-title="LETRA T;LANÇAMENTO;COMEDIA;DRAMA;2018;13 anos",The Square: A Arte da Discordia
@@ -385,7 +423,8 @@ http://network.vstreaming.net/movies/truquedemestre2-dub-720p.mp4
 http://network.vstreaming.net/movies/familiafeliz-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://cdnstk.micetop.us/wp-content/uploads/2018/03/MV5BMGZmNzdmNmUtZTk4MC00ODliLWI4YjQtNTFkOTI1YTVjZGYxXkEyXkFqcGdeQXVyNzg4MDY0MTc@._V1_SY1000_CR006741000_AL_.jpg" group-title="LETRA U;ANIMAÇAO;AVENTURA;FANTASIA;FICÇAO;2013;LIVRE",Uma Floresta Muito Louca
 http://network.vstreaming.net/movies/umaflorestamuitolouca-dub-720p.mp4
-
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/11082991/s592/uma-garota-encantada" group-title="LETRA U;COMEDIA;FANTASIA;ROMANCE;2004;12 anos",Uma Garota Encantada (480p)
+http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4
 
 
 ########## LETRA V ##########
@@ -398,6 +437,11 @@ http://network.vstreaming.net/movies/vivaavidaeumafesta-dub-720p.mp4
 http://network.vstreaming.net/movies/vizinhossecretos-dub-720p.mp4
 
 ########## LETRA W ##########
+
+#EXTINF:-1 tvg-logo="https://images.propstore.com/305633.jpg" group-title="LETRA W;AVENTURA;CLASSICO;FANTASIA;1988;LIVRE;",Willow na Terra da Magia
+http://network.vstreaming.net/movies/willowmagia-dub-720p.mp4
+
+
 
 
 ########## LETRA X ##########
@@ -418,729 +462,11 @@ http://network.vstreaming.net/movies/zootopia-dub-720p.mp4
 
 #EXTINF:-1 tvg-logo="http://razaodeaspecto.com/wp-content/uploads/2018/03/qxJQ0VBCuJkJhJmuWzxI408ngwd.jpg" group-title="LANÇAMENTO;LETRA #;DRAMA;2018;14 anos",15:17 Trem Para Paris
 http://network.vstreaming.net/movies/15h17tremparaparis-dub-720p.mp4
-
-
-
-
-#EXTM3U
-
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2J7Zg6X" group-title="INFANTIL",INFANTIL
-http://bit.ly/facebook-kbrplay
-
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2KtK1K3" group-title="INFANTIL",TA DANDO ONDA
-http://network.vstreaming.net/movies/tadandoonda-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2z4pXtg" group-title="INFANTIL",A ERA DO GELO 3
-http://network.vstreaming.net/movies/gelo3-dub-360p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2tIqL0I" group-title="INFANTIL",WILLOW NA TERRA DA MAGIA
-http://network.vstreaming.net/movies/willowmagia-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iw4jCc" group-title="INFANTIL",AS AVENTURAS DE TADEO 2
-http://network.vstreaming.net/movies/aventurasdetadeo2-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rVZuIe" group-title="INFANTIL",SCOOBY DOO E O COMBATE DO SALSICHA
-http://network.vstreaming.net/movies/scoobydoeocombatedesalsicha-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rUcu0U" group-title="INFANTIL",POKEMON EU ESCOLHO VOCE
-http://network.vstreaming.net/movies/pokemon-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IWS80U" group-title="INFANTIL",AVIOES
-http://network.vstreaming.net/movies/avioes-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rYzgES" group-title="INFANTIL",SAHARA
-http://network.vstreaming.net/movies/saara-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rYByD2" group-title="INFANTIL",PINOQUIO
-http://network.vstreaming.net/movies/pinoquio-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rYKk4Z" group-title="INFANTIL",LORAX
-http://network.vstreaming.net/movies/lorax-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2x0iBWv" group-title="INFANTIL",A ORIGEM DOS GUARDIOES
-http://network.vstreaming.net/movies/origemguardioes-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IxKVEW" group-title="INFANTIL",BRANCA DE NEVE E OS SETE ANOES
-http://network.vstreaming.net/movies/brancadeneve-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jQn1pB" group-title="INFANTIL",ANNIE
-http://media-br-am.crackle.com/1/s/96/z01lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2jOIXkI" group-title="INFANTIL",A PANTERA COR DE ROSA
-http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2If6LJp" group-title="INFANTIL",UMA GAROTA ENCANTADA
-http://media-br-am.crackle.com/1/w/h6/57vlf_480p.mp4
-
-
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2qMY9mz" group-title="DRAMA e ROMANCE",DRAMA E ROMANCE
-http://bit.ly/facebook-kbrplay
-
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2uuNXB3" group-title="DRAMA e ROMANCE",NAO ME ABANDONE JAMAIS
-http://network.vstreaming.net/movies/naomeabandonejamais-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2NpLz5z" group-title="DRAMA e ROMANCE",INTERESTELAR
-http://network.vstreaming.net/movies/interstellar-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2L5ZAZq" group-title="DRAMA e ROMANCE",A CACA
-http://network.vstreaming.net/movies/acaca-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2uupkEj" group-title="DRAMA e ROMANCE",CARTAS PARA JULIETA
-http://network.vstreaming.net/movies/cartasparajulieta-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2LkpU1g" group-title="DRAMA e ROMANCE",COMO SE FOSSE A PRIMEIRA VEZ
-http://network.vstreaming.net/movies/comosefosseprimeiravez-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2NkIa7Z" group-title="DRAMA e ROMANCE",UM LIMITE ENTRE NOS
-http://network.vstreaming.net/movies/limitenos-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2uIGWf0" group-title="DRAMA e ROMANCE",BELEZA OCULTA
-http://network.vstreaming.net/movies/belezaoculta-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2upFBKY" group-title="DRAMA e ROMANCE",UMA LOUCURA DE MULHER
-http://network.vstreaming.net/movies/loucurademulher-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2L3AR84" group-title="DRAMA e ROMANCE",ATE O ULTIMO HOMEM
-http://network.vstreaming.net/movies/ATE%20O%20ULTIMO%20HOMEM%20-%20DUB%20-%20720P.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IGEGtM" group-title="DRAMA e ROMANCE",O HOMEM DO FUTURO
-http://network.vstreaming.net/movies/homemdofuturo-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2tE0HVt" group-title="DRAMA e ROMANCE",A CHEGADA
-http://network.vstreaming.net/movies/achegada-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IG3vWE" group-title="DRAMA e ROMANCE",LUZ ENTRE OCEANOS
-http://network.vstreaming.net/movies/luzentreoceanos-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Mrf4U1" group-title="DRAMA e ROMANCE",PRECISAMOS FALAR SOBRE KEVIN
-http://network.vstreaming.net/movies/precisamosfalarsobrekevin-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IsrhVX" group-title="DRAMA e ROMANCE",O MELHOR DE MIM
-http://network.vstreaming.net/movies/omelhordemim-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2N46efZ" group-title="DRAMA e ROMANCE",SULLY O HEROI DO RIO HUDSON
-http://network.vstreaming.net/movies/sully-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2lvZkUa" group-title="DRAMA e ROMANCE",O CURIOSO CASO DE BENJAMIN BUTTON
-http://network.vstreaming.net/movies/benjaminbutton-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2K0m5hI" group-title="DRAMA e ROMANCE",UMA LONGA JORNADA
-http://network.vstreaming.net/movies/umalongajornada-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2t9v3yQ" group-title="DRAMA e ROMANCE",AS VANTAGENS DE SER INVISIVEL
-http://network.vstreaming.net/movies/vantagensinvisivel-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2JXxBq9" group-title="DRAMA e ROMANCE",QUESTAO DE TEMPO
-http://network.vstreaming.net/movies/questaodetempo-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2tmHiY7" group-title="DRAMA e ROMANCE",NOSSO LAR
-http://network.vstreaming.net/movies/nossolar-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2MFKwyB" group-title="DRAMA e ROMANCE",CIDADES DE PAPEL
-http://network.vstreaming.net/movies/cidadesdepapel-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2JWLvZA" group-title="DRAMA e ROMANCE",UM AMOR PRA RECORDAR
-http://network.vstreaming.net/movies/amorrecordar-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2tkXrgF" group-title="DRAMA e ROMANCE",P S EU TE AMO
-http://network.vstreaming.net/movies/psteamo-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2I5iXLz" group-title="DRAMA e ROMANCE",DIARIO DE UMA PAIXAO
-http://network.vstreaming.net/movies/diariodeumapaixao-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2tbh2k5" group-title="DRAMA e ROMANCE",A GAROTA DO LIVRO
-http://network.vstreaming.net/movies/agarotadolivro-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2t9qSDa" group-title="DRAMA e ROMANCE",ONDE NASCE A ESPERANCA
-http://network.vstreaming.net/movies/nasceesperanca-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2M30rWO" group-title="DRAMA e ROMANCE",EFEITO BORBOLETA
-http://network.vstreaming.net/movies/efeitoborboleta-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2ybU8ho" group-title="DRAMA e ROMANCE",COMO EU ERA ANTES DE VOCE
-http://network.vstreaming.net/movies/comoeueraantesdevoce-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2t0pr9e" group-title="DRAMA e ROMANCE",BELEZA ADORMECIDA
-http://network.vstreaming.net/movies/belezaadormecida-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2JGdaOk" group-title="DRAMA e ROMANCE",APENAS UM GAROTO EM NOVA YORK
-http://network.vstreaming.net/movies/apenasumgarotony-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KRemhX" group-title="DRAMA e ROMANCE",COMO NAO PERDER ESSA MULHER
-http://network.vstreaming.net/movies/comonaoperderessamulher-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IIf7xk" group-title="DRAMA e ROMANCE",ONDA PERFEITA
-http://network.vstreaming.net/movies/ondaperfeita-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2kmm8VO" group-title="DRAMA e ROMANCE",GAROTA DAHORA
-http://network.vstreaming.net/movies/garotadahora-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KUic9Z" group-title="DRAMA e ROMANCE",DETONANDO EM BARCELONA
-http://network.vstreaming.net/movies/detonandobarcelona-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2x9xoOy" group-title="DRAMA e ROMANCE",BEM A TEMPO PARA O NATAL
-http://network.vstreaming.net/movies/bematemponatal-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IHR9SR" group-title="DRAMA e ROMANCE",500 DIAS COM ELA
-http://network.vstreaming.net/movies/500dias-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lq2WTs" group-title="DRAMA e ROMANCE",AMORES CANIBAIS
-http://network.vstreaming.net/movies/thebadbatch-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IN5RrW" group-title="DRAMA e ROMANCE",TUDO E TODAS AS COISAS
-http://network.vstreaming.net/movies/tudoetodascoisas-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IJ8UkR" group-title="DRAMA e ROMANCE",CREPUSCULO
-http://network.vstreaming.net/movies/crepusculo-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2LuBpAu" group-title="DRAMA e ROMANCE",LUA NOVA
-http://network.vstreaming.net/movies/luanova-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2J1W7Jp" group-title="DRAMA e ROMANCE",ECLIPSE
-http://network.vstreaming.net/movies/eclipse-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Lq71Hk" group-title="DRAMA e ROMANCE",AMANHECER PT1
-http://network.vstreaming.net/movies/amanhecer-parte1-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KSludU" group-title="DRAMA e ROMANCE",AMANHECER PT2
-http://network.vstreaming.net/movies/amanhecer-parte2-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IH2nHj" group-title="DRAMA e ROMANCE",AMOR CERTO HORA ERRADA
-http://network.vstreaming.net/movies/amorcertoerrado-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2LtSNVJ" group-title="DRAMA e ROMANCE",O ESPACO ENTRE NOS
-http://network.vstreaming.net/movies/oespaco-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2kn3GMT" group-title="DRAMA e ROMANCE",A BELA E A FERA
-http://network.vstreaming.net/movies/abelaeafera-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rHIDb3" group-title="DRAMA e ROMANCE",O REI DO SHOW
-http://network.vstreaming.net/movies/oreidoshow-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jQGxSY" group-title="DRAMA e ROMANCE",JANELA SECRETA
-http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rCyCg0" group-title="DRAMA e ROMANCE",SEGUNDAS INTENCOES 3
-http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jOcxa3" group-title="DRAMA e ROMANCE",DESEJO A TRES
-http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wuCIff" group-title="DRAMA e ROMANCE",MULHER SOLTEIRA PROCURA
-http://media-br-am.crackle.com/1/y/r6/2gvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jTCEfL" group-title="DRAMA e ROMANCE",MULHER SOLTEIRA PROCURA 2
-http://media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IbRCfC" group-title="DRAMA e ROMANCE",CORPO EM EVIDENCIA
-http://media-br-am.crackle.com/1/j/16/97wlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rE0vU6" group-title="DRAMA e ROMANCE",HOTEL RUANDA
-http://media-br-am.crackle.com/1/0/d6/a4vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KRVHU2" group-title="DRAMA e ROMANCE",MALICIA
-http://media-br-am.crackle.com/1/o/im/urdyb_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2I8nW37" group-title="DRAMA e ROMANCE",SOCIEDADE FEROZ
-http://media-br-am.crackle.com/1/a/l6/ycwlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KhSMmK" group-title="DRAMA e ROMANCE",BONS COSTUMES
-http://media-br-am.crackle.com/1/w/96/d41lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jQndoz" group-title="DRAMA e ROMANCE",JULIE E JULIA
-http://media-br-am.crackle.com/1/r/n6/2w2lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2G7ZXez" group-title="DRAMA e ROMANCE",DE REPENTE 30
-http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wyyB1x" group-title="DRAMA e ROMANCE",MEUS 15 ANOS
-http://media-br-am.crackle.com/1/j/96/uz1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IAJJjk" group-title="DRAMA e ROMANCE",ADORAVEIS MULHERES
-http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rzsXrm" group-title="DRAMA e ROMANCE",LUA DE MEL EM LAS VEGAS
-http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jP0aKU" group-title="DRAMA e ROMANCE",IRONIAS DO AMOR
-http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2I9PFAE" group-title="DRAMA e ROMANCE",BASTIDORES DE UM CASAMENTO
-http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2G99Oki" group-title="DRAMA e ROMANCE",O CHAMADO DE XANGAI
-http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rBUIj3" group-title="DRAMA e ROMANCE",PENELOPE
-http://media-br-am.crackle.com/1/x/n6/ry2lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IvXL5N" group-title="DRAMA e ROMANCE",UM AMOR DE VERAO
-http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rBXKmp" group-title="DRAMA e ROMANCE",TRES MULHERES TRES AMORES
-http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Gajrz8" group-title="DRAMA e ROMANCE",MEU PRIMEIRO AMOR 2
-http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2I8uYVD" group-title="DRAMA e ROMANCE",A ULTIMA MISSAO
-http://media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rGXP8n" group-title="DRAMA e ROMANCE",JOGANDO COM PRAZER
-http://media-br-am.crackle.com/1/k/ol/y0byb_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IcgaVS" group-title="DRAMA e ROMANCE",SECRETARIA
-http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IgQBmD" group-title="DRAMA e ROMANCE",TRABALHO SUJO
-http://media-br-am.crackle.com/1/m/v6/4jvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2GanMSV" group-title="DRAMA e ROMANCE",UMA NOIVA E TANTO
-http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ii55Ph" group-title="DRAMA e ROMANCE",AS FACES DE HELEN
-http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Km2qoq" group-title="DRAMA e ROMANCE",ENCONTROS AO ACASO
-http://media-br-am.crackle.com/1/y/f6/73ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KWuNdX" group-title="DRAMA e ROMANCE",SEXO MENTIRAS E VIDEOTAPE
-http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Kmq6IX" group-title="DRAMA e ROMANCE",VESTIGIOS DO DIA
-http://media-br-am.crackle.com/1/w/96/b41lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KkGU3k" group-title="DRAMA e ROMANCE",LENDAS DA PAIXAO
-http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KSZkt3" group-title="DRAMA e ROMANCE",RAIN MAN
-http://media-br-am.crackle.com/1/x/56/6v1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rF6FV7" group-title="DRAMA e ROMANCE",DESAPARECIDAS
-http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IdxrOr" group-title="DRAMA e ROMANCE",OS MISERAVEIS
-http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Idvv8U" group-title="DRAMA e ROMANCE",NAS PROFUNDEZAS DO MAR SEM FIM
-http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KZmQEv" group-title="DRAMA e ROMANCE",LAWRENCE DA ARABIA
-http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IfQ9kE" group-title="DRAMA e ROMANCE",NUNCA SEM MINHA FILHA
-http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rFK4XI" group-title="DRAMA e ROMANCE",A OUTRA
-http://media-br-am.crackle.com/1/x/56/7v1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ihu853" group-title="DRAMA e ROMANCE",UM HOMEM FORA DE SERIE
-http://media-br-am.crackle.com/1/v/n6/i6ulf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IzLGMX" group-title="DRAMA e ROMANCE",O POVO CONTRA LARRY FLINT
-http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IismAz" group-title="DRAMA e ROMANCE",CODIGO DE HONRA
-http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wERtMA" group-title="DRAMA e ROMANCE",CADA UM VIVE COMO QUER
-http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2GaNMh6" group-title="DRAMA e ROMANCE",AS COISAS IMPOSSIVEIS DO AMOR
-http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rG2kAQ" group-title="DRAMA e ROMANCE",VIDAS QUE SE CRUZAM
-http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wCY4qF" group-title="DRAMA e ROMANCE",O DESPERTAR DE UMA PAIXAO
-http://media-br-am.crackle.com/1/5/8l/u7cyb_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IiCv0a" group-title="DRAMA e ROMANCE",POR AMOR
-http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IdUN6Q" group-title="DRAMA e ROMANCE",OLIVER
-http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ie6nii" group-title="DRAMA e ROMANCE",LAUREL CANYON
-http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Icxx98" group-title="DRAMA e ROMANCE",O RANCHO DO AMOR
-http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IgXLmN" group-title="DRAMA e ROMANCE",UM SEGREDO ENTRE NOS
-http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IFZZj9" group-title="DRAMA e ROMANCE",ERIN BROCKOVICH
-http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IgBtWF" group-title="DRAMA e ROMANCE",SETE VIDAS
-http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KmvqMJ" group-title="DRAMA e ROMANCE",HACKERS: PIRATAS DE COMPUTADOR
-http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IfKlYi" group-title="DRAMA e ROMANCE",CAMINHO SEM VOLTA
-http://media-br-am.crackle.com/1/t/h6/t7vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IAt6o2" group-title="DRAMA e ROMANCE",O CANTOR
-http://media-br-am.crackle.com/1/i/z6/wtvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wBNSPf" group-title="DRAMA e ROMANCE",O ILUSIONISTA
-http://media-br-am.crackle.com/1/z/z6/vsvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rAci6X" group-title="DRAMA e ROMANCE",O RESGATE DE UM CAMPEAO
-http://media-br-am.crackle.com/1/y/z6/qsvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rF9ntP" group-title="DRAMA e ROMANCE",STUDIO 54
-http://media-br-am.crackle.com/1/3/d6/l4vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KjDzBm" group-title="DRAMA e ROMANCE",UM HOMEM BOM
-http://media-br-am.crackle.com/1/s/d6/c0vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jUU6kk" group-title="DRAMA e ROMANCE",AMIGOS DE CACA
-http://media-br-am.crackle.com/1/w/z6/ksvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wBQuwx" group-title="DRAMA e ROMANCE",APRENDENDO A VIVER
-http://media-br-am.crackle.com/1/8/d6/84vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KYe89L" group-title="DRAMA e ROMANCE",CAMINHOS OPOSTOS
-http://media-br-am.crackle.com/1/q/f6/a6ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rFPlPF" group-title="DRAMA e ROMANCE",O SEGREDO DE BROKEBACK MOUNTAIN
-http://media-br-am.crackle.com/1/k/l6/2dwlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2GfmIgD" group-title="DRAMA e ROMANCE",O CASAMENTO DE RACHEL
-http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IyefKX" group-title="DRAMA e ROMANCE",APENAS UMA VEZ
-http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ij6zJ7" group-title="DRAMA e ROMANCE",COMO SE FOSSE A PRIMEIRA VEZ
-http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IjHIVx" group-title="DRAMA e ROMANCE",ATRAIDOS PELO DESTINO
-http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rFWkHE" group-title="DRAMA e ROMANCE",PARAISO
-http://media-br-am.crackle.com/1/v/h6/27vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IiquvB" group-title="DRAMA e ROMANCE",STARMAN
-http://media-br-am.crackle.com/1/e/r6/tbvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KlrsUr" group-title="DRAMA e ROMANCE",1984
-http://media-br-am.crackle.com/1/p/f6/75ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wCNikv" group-title="DRAMA e ROMANCE",A GUERRA DE HART
-http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rGxW9v" group-title="DRAMA e ROMANCE",CONTATOS IMEDIATOS DE TERCEIRO GRAU
-http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IBtjar" group-title="DRAMA e ROMANCE",AFRICA DOS MEUS SONHOS
-http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IHmXGD" group-title="DRAMA e ROMANCE",VIOLACAO DE PRIVACIDADE
-http://media-br-am.crackle.com/1/1/d6/c4vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KlzOeL" group-title="DRAMA e ROMANCE",O HEROI DA FAMILIA
-http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2GfGMzs" group-title="DRAMA e ROMANCE",HAVEN
-http://media-br-am.crackle.com/1/p/im/zrdyb_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Gev0pd" group-title="DRAMA e ROMANCE",PERSUASAO
-http://media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wCLdVJ" group-title="DRAMA e ROMANCE",O MELHOR AMIGO DA NOIVA
-http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IicEoV" group-title="DRAMA e ROMANCE",ID:FURIA NAS ARQUIBANCADAS
-http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2GdhodU" group-title="DRAMA e ROMANCE",A JOVEM RAINHA VICTORIA
-http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jWujYK" group-title="DRAMA e ROMANCE",AS QUATRO PLUMAS
-http://media-br-am.crackle.com/1/6/d6/04vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2L0Gno7" group-title="DRAMA e ROMANCE",OS REIS DE DOGTOWN
-http://media-br-am.crackle.com/1/1/n6/39ulf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rGOkGe" group-title="DRAMA e ROMANCE",VICIADO EM SEXO
-http://media-br-am.crackle.com/1/w/v6/7kvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KnRoyX" group-title="DRAMA e ROMANCE",GRETA
-http://media-br-am.crackle.com/1/y/z6/ssvlf_480p.mp4
-
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2vBs1XS" group-title="TERROR e SUSPENSE",TERROR e SUSPENSE
-http://bit.ly/facebook-kbrplay
-
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2zY47I5" group-title="TERROR e SUSPENSE",PERIGO EM ALTO MAR
-http://network.vstreaming.net/movies/perigoaltomar-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2L0fxjE" group-title="TERROR e SUSPENSE",A MORTE DO DEMONIO
-http://network.vstreaming.net/movies/amortedodemonio-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2L5Dmqj" group-title="TERROR e SUSPENSE",PANICO NA ESCOLA
-http://network.vstreaming.net/movies/paniconaescola-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2L6INoY" group-title="TERROR e SUSPENSE",MAMA
-http://network.vstreaming.net/movies/mama-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2mm75wq" group-title="TERROR e SUSPENSE",A NOITE DOS MORTOS VIVOS
-http://network.vstreaming.net/movies/mortosvivos-dub-480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2yX5Nky" group-title="TERROR e SUSPENSE",JOGOS MORTAIS 2
-http://network.vstreaming.net/movies/jogosmortais2-leg-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2yLhVW1" group-title="TERROR e SUSPENSE",INFERNO
-http://network.vstreaming.net/movies/inferno-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2yCcyYX" group-title="TERROR e SUSPENSE",O HOMEM NAS TREVAS
-http://network.vstreaming.net/movies/ohomemnastrevas-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2ysxLoa" group-title="TERROR e SUSPENSE",QUANDO AS LUZES SE APAGAM
-http://network.vstreaming.net/movies/luzesseapagam-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2tzf2kW" group-title="TERROR e SUSPENSE",A INVOCACAO DO MAL
-http://network.vstreaming.net/movies/invocacaodomal-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2LRnML2" group-title="TERROR e SUSPENSE",A INVOCACAO DO MAL 2
-http://network.vstreaming.net/movies/iinvocacaomal2-dub-480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2JDcCZG" group-title="TERROR e SUSPENSE",TERRA SELVAGEM
-http://network.vstreaming.net/movies/terraselvagem-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2JSVxhP" group-title="TERROR e SUSPENSE",ADVOGADO DO DIABO
-http://network.vstreaming.net/movies/advogadododiabo-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IHG9UO" group-title="TERROR e SUSPENSE",JOGOS MORTAIS:JIGSAW
-http://network.vstreaming.net/movies/jigsaw-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IgfBXf" group-title="TERROR e SUSPENSE",O RITUAL
-http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KCGBBG" group-title="TERROR e SUSPENSE",MENINA MA
-http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rCvuAQ" group-title="TERROR e SUSPENSE",NA COMPANHIA DO MEDO
-http://media-br-am.crackle.com/1/t/56/qv1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jR0gBT" group-title="TERROR e SUSPENSE",COMPORTAMENTO SUSPEITO
-http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IbMx2R" group-title="TERROR e SUSPENSE",QUANDO UM ESTRANHO CHAMA
-http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rCQt5V" group-title="TERROR e SUSPENSE",ESTRADA MALDITA
-http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2I8tSsY" group-title="TERROR e SUSPENSE",O CODIGO DA VINCI
-http://media-br-am.crackle.com/1/n/z6/grvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KfExyE" group-title="TERROR e SUSPENSE",RIOS VERMELHOS
-http://media-br-am.crackle.com/1/k/j6/uwulf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2I86yLX" group-title="TERROR e SUSPENSE",SEM VESTIGIOS
-http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ih6ntB" group-title="TERROR e SUSPENSE",LENDA URBANA 3
-http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ih6ntB" group-title="TERROR e SUSPENSE",STIGMATA
-http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KWj2E7" group-title="TERROR e SUSPENSE",QUARENTENA
-http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wv09ow" group-title="TERROR e SUSPENSE",IDENTIDADE
-http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jNAfDo" group-title="TERROR e SUSPENSE",AMAR TRAIR E ROUBAR
-http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Kfzuy2" group-title="TERROR e SUSPENSE",CATIVEIRO
-http://media-br-am.crackle.com/1/h/z6/stvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KeQl44" group-title="TERROR e SUSPENSE",ENQUANTO ELA ESTA FORA
-http://media-br-am.crackle.com/1/r/d6/9zvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rA7YVe" group-title="TERROR e SUSPENSE",A VOLTA DOS MORTOS VIVOS
-http://media-br-am.crackle.com/1/z/v6/k1zlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rDoVgv" group-title="TERROR e SUSPENSE",FIDO O MASCOTE
-http://media-br-am.crackle.com/1/y/d6/40vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ig5TIc" group-title="TERROR e SUSPENSE",PROVAS E TRAPACAS
-http://media-br-am.crackle.com/1/x/z6/msvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Gef85Q" group-title="TERROR e SUSPENSE",SOB SUSPEITA
-http://media-br-am.crackle.com/1/_/x6/36wlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wIxs7E" group-title="TERROR e SUSPENSE",O APRENDIZ
-http://media-br-am.crackle.com/1/x/n6/o9ulf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IhpAvc" group-title="TERROR e SUSPENSE",GAROTAS SELVAGENS 4
-http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IjkHlE" group-title="TERROR e SUSPENSE",SEDUTORA E DIABOLICA
-http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KWQBWR" group-title="TERROR e SUSPENSE",12 HORAS
-http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IhqXtW" group-title="TERROR e SUSPENSE",8 MILIMETROS
-http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jTvxUL" group-title="TERROR e SUSPENSE",8 MILIMETROS 2
-http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rDrm3E" group-title="TERROR e SUSPENSE",COISAS BELAS E SUJAS
-http://media-br-am.crackle.com/1/4/d6/o4vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jVq2VC" group-title="TERROR e SUSPENSE",FEMME FATALE
-http://media-br-am.crackle.com/1/c/16/e7wlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KkFdms" group-title="TERROR e SUSPENSE",INOCENTE OU CULPADO
-http://media-br-am.crackle.com/1/t/d6/h3vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jV4OqZ" group-title="TERROR e SUSPENSE",LUTA PELA LIBERDADE
-http://media-br-am.crackle.com/1/q/d6/62vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wCYTjf" group-title="TERROR e SUSPENSE",MARCAS DO PASSADO
-http://media-br-am.crackle.com/1/g/z6/ntvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rFyOeJ" group-title="TERROR e SUSPENSE",SEDUCAO FATAL
-http://media-br-am.crackle.com/1/w/z6/hsvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IlIFNb" group-title="TERROR e SUSPENSE",PREMONICOES
-http://media-br-am.crackle.com/1/x/n6/qy2lf_480p.mp4
-
-
-
-
-
-###### VERIFICADO #########
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2LnyokP" group-title="ACAO",60 SEGUNDOS
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/9214479/s592/60-segundos" group-title="LETRA #;AÇAO;POLICIAL;2000;14 anos",60 Segundos
 http://network.vstreaming.net/movies/60segundos-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2usyRfk" group-title="ACAO",INDEPENDENCE DAY
-http://network.vstreaming.net/movies/independenceday-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2yX9qXI" group-title="ACAO",INDEPENDENCE DAY O RESSURGIMENTO
-http://network.vstreaming.net/movies/independenceresurgimento-dub-720p.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/D5J9Rd" group-title="ACAO",FEITO NA AMERICA
-http://network.vstreaming.net/movies/americanmade-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2lMiuFK" group-title="ACAO",FALCAO NEGRO EM PERIGO
-http://network.vstreaming.net/movies/falcaonegroemperigo-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2yZIWF8" group-title="ACAO",LUCY
-http://network.vstreaming.net/movies/lucy-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KAY5RM" group-title="ACAO",OBLIVION
-http://network.vstreaming.net/movies/oblivion-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KoHnVG" group-title="ACAO",O APRENDIZ DE FEITICEIRO
-http://network.vstreaming.net/movies/oaprendizdefeiticeiro-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KjiPO3" group-title="ACAO",GIGANTES DE ACO
-http://network.vstreaming.net/movies/giganteaco-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2tzgF35" group-title="ACAO",QUEBRANDO REGRAS
-http://network.vstreaming.net/movies/quebrandoregras-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2MeSNZt" group-title="ACAO",SNIPER AMERICANO
-http://network.vstreaming.net/movies/americansniper-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2yyNzWx" group-title="ACAO",OPERACAO VALQUIRIA
-http://network.vstreaming.net/movies/operacaovalquiria-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2M7NoDh" group-title="ACAO",OPERACAO INVASAO
-http://network.vstreaming.net/movies/operacaoinvasao-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2MplzaG" group-title="ACAO",NO LIMITE DO AMANHA
-http://network.vstreaming.net/movies/limiteamanha-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2JEF9Oh" group-title="ACAO",FACA SUA JOGADA
-http://network.vstreaming.net/movies/facasuajogada-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IycRrp" group-title="ACAO",O CONTRATO
-http://media-br-am.crackle.com/1/x/n6/oy2lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KhnZqb" group-title="ACAO",JUSTICA VERMELHA
-http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wuEKvT" group-title="ACAO",A BEIRA DO ABISMO
-http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jR9Mok" group-title="ACAO",ESTRANHA OBSESSAO
-http://media-br-am.crackle.com/1/b/h6/r5vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ih2qoO" group-title="ACAO",RICKY BOBBY A TODA VELOCIDADE
-http://media-br-am.crackle.com/1/x/r6/0gvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jRASvO" group-title="ACAO",O ULTIMO GRANDE HEROI
-http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KejoEW" group-title="ACAO",SEGURANDO AS PONTAS
-http://media-br-am.crackle.com/1/z/f6/a4ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IdA2rX" group-title="ACAO",AS DUAS FACES DA LEI
-http://media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2GdmQ0d" group-title="ACAO",REDE DE INTRIGAS
-http://media-br-am.crackle.com/1/t/d6/i3vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iz4j3P" group-title="ACAO",SEM SAIDA
-http://media-br-am.crackle.com/1/m/l6/chwlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rDuht8" group-title="ACAO",ACIMA DA LEI
-http://media-br-am.crackle.com/1/8/16/5p1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ih59P3" group-title="ACAO",A INFORMANTE
-http://media-br-am.crackle.com/1/j/l6/ydwlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jUtShx" group-title="ACAO",O SANGUE DE ROMEO
-http://media-br-am.crackle.com/1/q/v6/hkvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rG9hkz" group-title="ACAO",O PODER DA CORRUPCAO
-http://media-br-am.crackle.com/1/z/n6/y9ulf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rEvdNL" group-title="ACAO",HOMENS PERIGOSOS
-http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IgiOpv" group-title="ACAO",SEQUESTRO DO METRO 123
-http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rBmZFs" group-title="ACAO",OURO BRANCO
-http://media-br-am.crackle.com/1/u/h6/y7vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KmosqZ" group-title="ACAO",RED
-http://media-br-am.crackle.com/1/q/f6/b6ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KZfFwj" group-title="ACAO",RISCO ABSOLUTO
-http://media-br-am.crackle.com/1/n/im/rrdyb_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2GcSknn" group-title="ACAO",TORTURADO
-http://media-br-am.crackle.com/1/s/d6/e3vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2GehzWj" group-title="ACAO",HANCOCK
-http://media-br-am.crackle.com/1/u/96/631lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KWZAXQ" group-title="ACAO",FUGA DE ABSOLOM
-http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IgIXc7" group-title="ACAO",CONDUZIDO PARA MATAR
-http://media-br-am.crackle.com/1/s/d6/d3vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Im3qIi" group-title="ACAO",HEROIS
-http://media-br-am.crackle.com/1/s/96/w01lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KkpZh7" group-title="ACAO",O GRANDE ANJO NEGRO
-http://media-br-am.crackle.com/1/q/v6/invlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wG1fxR" group-title="ACAO",EQUILIBRIUM
-http://media-br-am.crackle.com/1/v/d6/n3vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IeMnfv" group-title="ACAO",SKYLINE:A INVASAO
-http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wIb2Uk" group-title="ACAO",TEMPOS DE VIOLENCIA
-http://media-br-am.crackle.com/1/r/d6/b0vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IGr5GX" group-title="ACAO",UM ATO DE LIBERDADE
-http://media-br-am.crackle.com/1/z/f6/c7ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rGGOvY" group-title="ACAO",ESPIAO POR ACIDENTE
-http://media-br-am.crackle.com/1/r/n6/0w2lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KZ3v6z" group-title="ACAO",VELOCIDADE SEM LIMITES
-http://media-br-am.crackle.com/1/x/n6/py2lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jYTPwp" group-title="ACAO",LAGRIMAS DO SOL
-http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Klxbtp" group-title="ACAO",SOLDADO UNIVERSAL 3
-http://media-br-am.crackle.com/1/i/z6/utvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IeWfG7" group-title="ACAO",TRIPLO X
-http://media-br-am.crackle.com/1/v/96/831lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jTTFqg" group-title="ACAO",TRIPLO X:ESTADO DE EMERGENCIA
-http://media-br-am.crackle.com/1/r/z6/wuvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KhyTvK" group-title="ACAO",O HOMEM SOMBRA
-http://media-br-am.crackle.com/1/r/n6/1w2lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IcSYXv" group-title="ACAO",REPLICANTE
-http://media-br-am.crackle.com/1/4/f6/w7ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IkdxgS" group-title="ACAO",O FORASTEIRO 2
-http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wNXk2n" group-title="ACAO",SOU ESPIAO
-http://media-br-am.crackle.com/1/m/f6/t5ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ge9v7Y" group-title="ACAO",ASSALTO SOBRE TRILHOS
-http://media-br-am.crackle.com/1/5/f6/07ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rB6dqT" group-title="ACAO",EXCESSO DE BAGAGEM
-http://media-br-am.crackle.com/1/w/al/519wb_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IdEUgF" group-title="ACAO",VINGANCA
-http://media-br-am.crackle.com/1/r/d6/a0vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IERyod" group-title="ACAO",O SENHOR DAS ARMAS
-http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KmegPe" group-title="ACAO",WASABI
-http://media-br-am.crackle.com/1/q/d6/42vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KmleDW" group-title="ACAO",HORAS DE DESESPERO
-http://media-br-am.crackle.com/1/n/v6/5jvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jTsqMr" group-title="ACAO",UM TIRA POR ACASO
-http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KZiE7X" group-title="ACAO",SWAT:COMANDO ESPECIAL
-http://media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rEgUrG" group-title="ACAO",MERGULHO RADICAL 2
-http://media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rEDSjw" group-title="ACAO",A ERA DA ESCURIDAO
-http://media-br-am.crackle.com/1/e/f6/w4ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IBp3rt" group-title="ACAO",CAES DE GUERRA
-http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wNZcbp" group-title="ACAO",CONQUISTA SANGRENTA
-http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2L0688m" group-title="ACAO",DESAFIO RADICAL
-http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jUzg4r" group-title="ACAO",DIVISAO DE HOMICIDIOS
-http://media-br-am.crackle.com/1/f/f6/z4ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KmFXrg" group-title="ACAO",IMPACTO MORTAL:A VINGANCA
-http://media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rEq48y" group-title="ACAO",MATADOR DE ALUGUEL
-http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Id6MBj" group-title="ACAO",A PRIMEIRA GRANDE DESCIDA
-http://media-br-am.crackle.com/1/y/d6/30vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2L0FbkD" group-title="ACAO",O GUARDIAO
-http://media-br-am.crackle.com/1/s/am/pddyb_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jWnw16" group-title="ACAO",O GUARDIAO 2
-http://media-br-am.crackle.com/1/g/16/vaylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ie6bQ1" group-title="ACAO",O GUARDIAO 3
-http://media-br-am.crackle.com/1/o/im/vrdyb_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ik5Y9Z" group-title="ACAO",O LEGIONARIO
-http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4
 
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2vw8yHV" group-title="COMEDIA",COMEDIA
-http://bit.ly/facebook-kbrplay
 
 
-#EXTINF:-1 tvg-logo="http://bit.ly/2O4C9xk" group-title="COMEDIA",ESPOSA DE MENTIRINHA
-http://network.vstreaming.net/movies/esposadementirinha-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2NZEEAT" group-title="COMEDIA",COMO PERDER UM HOMEM EM 10 DIAS
-http://network.vstreaming.net/movies/comoperderumhomemem10dias-dub-480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Nm3yda" group-title="COMEDIA",MINHA MAE E UMA PECA
-http://network.vstreaming.net/movies/minhamaepeca-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2NXBX31" group-title="COMEDIA",SE BEBER NAO CASE
-http://network.vstreaming.net/movies/beberncase1-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2zUePzA" group-title="COMEDIA",SE BEBER NAO CASE 2
-http://network.vstreaming.net/movies/beberncase2-dub-480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2NV5Ctv" group-title="COMEDIA",SE BEBER NAO CASE 3
-http://network.vstreaming.net/movies/beberncase3-dub-480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2JtW4SY" group-title="COMEDIA",MARLEY E EU
-http://network.vstreaming.net/movies/marleyeeu-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Jt9Kh9" group-title="COMEDIA",QUASE 18
-http://network.vstreaming.net/movies/quase18-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2LorpYX" group-title="COMEDIA",AMOR E AMIZADE
-http://network.vstreaming.net/movies/amoramizade-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Kl9plY" group-title="COMEDIA",CAPITAO FANTASTICO
-http://network.vstreaming.net/movies/capitaofantastico-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2MBlmR2" group-title="COMEDIA",SEX DRIVE RUMO AO SEXO
-http://network.vstreaming.net/movies/rumoaosexo-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2JQGhCI" group-title="COMEDIA",SUPERBAD
-http://network.vstreaming.net/movies/superbad-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2M4viCc" group-title="COMEDIA",VIZINHOS 2
-http://network.vstreaming.net/movies/vizinhos2-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2JBVW8F" group-title="COMEDIA",PROJETO X
-http://network.vstreaming.net/movies/projetox-dub-720p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rC2FVk" group-title="COMEDIA",BRUNO
-http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KhQXWR" group-title="COMEDIA",CASAMENTO AS AVESSAS
-http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Kh5UIB" group-title="COMEDIA",O ABC DO AMOR
-http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wHBsFR" group-title="COMEDIA",JUNO
-http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wwYrmJ" group-title="COMEDIA",UM SALAO DO BARULHO
-http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2I8WjXM" group-title="COMEDIA",LEMBRANCAS DE HOLLYWOOD
-http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2G8ULai" group-title="COMEDIA",O SHOW DEVE CONTINUAR
-http://media-br-am.crackle.com/1/_/d6/i5vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2G5UhSo" group-title="COMEDIA",MAL POSSO ESPERAR
-http://media-br-am.crackle.com/1/v/96/a41lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rBHi5D" group-title="COMEDIA",UM CRIMINOSO DECENTE
-http://media-br-am.crackle.com/1/q/96/p01lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rCScZy" group-title="COMEDIA",OS SEUS OS MEUS OS NOSSOS
-http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rAxetC" group-title="COMEDIA",OS PRODUTORES
-http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KUqwYj" group-title="COMEDIA",O CLUBE DE LEITURA DE JANE AUSTEN
-http://media-br-am.crackle.com/1/2/d6/g4vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IuOLOx" group-title="COMEDIA",JOGUE A MAMAE DO TREM
-http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IbHAqT" group-title="COMEDIA",FEITICO DA LUA
-http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IdMpjv" group-title="COMEDIA",EU MINHA MULHER E MINHAS COPIAS
-http://media-br-am.crackle.com/1/y/n6/q9ulf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IbFK9w" group-title="COMEDIA",A HORA DO RANGO
-http://media-br-am.crackle.com/1/u/l6/7ewlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IeyutE" group-title="COMEDIA",A ROSA PURPURA DO CAIRO
-http://media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2G7Zwkp" group-title="COMEDIA",UM DIA DE LOUCO
-http://media-br-am.crackle.com/1/z/56/cw1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2G7sTUa" group-title="COMEDIA",SUPERBAD
-http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iwv8W5" group-title="COMEDIA",UMA FESTA NO AR
-http://media-br-am.crackle.com/1/l/56/tr1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IfbpXG" group-title="COMEDIA",UMA TURMA DO BARULHO
-http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KgimIC" group-title="COMEDIA",KUNG FUSAO
-http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rC48tQ" group-title="COMEDIA",O OPOSTO DO SEXO
-http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wyLfh9" group-title="COMEDIA",UM PEIXE CHAMADO WANDA
-http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KdU0iz" group-title="COMEDIA",O PARAISO E LOGO AQUI
-http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KSekXY" group-title="COMEDIA",NEM POR CIMA DO MEU CADAVER
-http://media-br-am.crackle.com/1/5/8l/w7cyb_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IhwqkI" group-title="COMEDIA",ADEUS AMOR
-http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wzcIPF" group-title="COMEDIA",KUNG FU FUTEBOL CLUBE
-http://media-br-am.crackle.com/1/0/d6/83vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rCtwQp" group-title="COMEDIA",A HERANCA DE MR DEEDS
-http://media-br-am.crackle.com/1/g/n6/r7ulf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jS9qhB" group-title="COMEDIA",A INVEJA MATA
-http://media-br-am.crackle.com/1/0/v6/p1zlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wyPwBo" group-title="COMEDIA",ALMONDEGAS 4
-http://media-br-am.crackle.com/1/q/v6/jkvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IzqNBq" group-title="COMEDIA",BOLAS EM PANICO
-http://media-br-am.crackle.com/1/l/l6/7gwlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2G7qQPX" group-title="COMEDIA",COMO CONQUISTAR UMA MULHER
-http://media-br-am.crackle.com/1/i/z6/vtvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IijMBR" group-title="COMEDIA",FUNCIONARIO DO MES
-http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IEQHnq" group-title="COMEDIA",GRANDE HOTEL
-http://media-br-am.crackle.com/1/5/d6/v4vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wBMpIS" group-title="COMEDIA",JOGOS TRAPACAS E DOIS CANOS FUMEGANTES
-http://media-br-am.crackle.com/1/n/um/rbeyb_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KZdzMU" group-title="COMEDIA",NAO MAIS UM BESTEIROL AMERICANO
-http://media-br-am.crackle.com/1/n/d6/tzvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IlazJb" group-title="COMEDIA",O BALCONISTA
-http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IhkOOi" group-title="COMEDIA",O JULGAMENTO DE PARIS
-http://media-br-am.crackle.com/1/m/im/ordyb_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rFlMgx" group-title="COMEDIA",O PAIZAO
-http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Iwmxmz" group-title="COMEDIA",OS SAFADOS
-http://media-br-am.crackle.com/1/a/16/96wlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IhzKMv" group-title="COMEDIA",PROCURANDO ENCRENCA
-http://media-br-am.crackle.com/1/v/h6/07vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IyBILQ" group-title="COMEDIA",QUASE ILEGAL
-http://media-br-am.crackle.com/1/n/v6/7jvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IctSbA" group-title="COMEDIA",CURTINDO A NOITE
-http://media-br-am.crackle.com/1/u/h6/v7vlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KkhH8S" group-title="COMEDIA",TRES AMIGOS
-http://media-br-am.crackle.com/1/y/f6/76ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IfbpXG" group-title="COMEDIA",UMA TURMA DO BARULHO
-http://media-br-am.crackle.com/1/n/f6/y2ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2IltRha" group-title="COMEDIA",VAMOS NESSA
-http://media-br-am.crackle.com/1/1/n6/69ulf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2GctbsS" group-title="COMEDIA",AMIGAS COM DINHEIRO
-http://media-br-am.crackle.com/1/9/l6/vjwlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rH7b3W" group-title="COMEDIA",A FESTA NUNCA TERMINA
-http://media-br-am.crackle.com/1/q/f6/85ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Ig4lKj" group-title="COMEDIA",A GRANDE JOGADA
-http://media-br-am.crackle.com/1/g/z6/otvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jRRqnc" group-title="COMEDIA",O VIGARISTA DO ANO
-http://media-br-am.crackle.com/1/y/z6/psvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KX8x3i" group-title="COMEDIA",SEIS GRAUS DE SEPARACAO
-http://media-br-am.crackle.com/1/_/h6/scwlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wB35jD" group-title="COMEDIA",SIMPLESMENTE ALICE
-http://media-br-am.crackle.com/1/y/56/8v1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2Kmo5g2" group-title="COMEDIA",FEITICO DO TEMPO
-http://media-br-am.crackle.com/1/d/f6/t4ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2KhEBOr" group-title="COMEDIA",DOUTOR FANTASTICO
-http://media-br-am.crackle.com/1/z/n6/v9ulf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wBhQmI" group-title="COMEDIA",JCVD
-http://media-br-am.crackle.com/1/5/f6/y7ylf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2L2Jf3M" group-title="COMEDIA",VOU TE PEGAR OTARIO
-http://media-br-am.crackle.com/1/m/v6/3jvlf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2rGtKXv" group-title="COMEDIA",O NOME DO JOGO
-http://media-br-am.crackle.com/1/m/56/vr1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2jTBila" group-title="COMEDIA",PEGAR E LARGAR
-http://media-br-am.crackle.com/1/9/16/7p1lf_480p.mp4
-#EXTINF:-1 tvg-logo="http://bit.ly/2wJYfAS" group-title="COMEDIA",FUNNY LADY
-http://media-br-am.crackle.com/1/0/56/hw1lf_480p.mp4
+
