@@ -2,10 +2,10 @@
 
 #PLAYLISTV: pltv-logo="https://i.imgur.com/FdzwgzG.png" pltv-name="NZ TECH FILMES DUBLADOS" pltv-description="LISTA DE FILMES" pltv-cover="https://thumbs.dreamstime.com/b/molde-abstrato-do-vetor-do-logotipo-do-cinema-isolado-no-branco-79853306.jpg" pltv-author="NZ TECH" pltv-site="http://qwertyuiop.com" pltv-whats="" pltv-phone="(00)00000000"
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/iQ3dEVB.png" group-title="INFORMAÇÕES DA LISTA", NZ Atualizada 05/08/2018 ás 13:00
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iQ3dEVB.png" group-title="INFORMAÇÕES DA LISTA", NZ Atualizada 25/08/2018 ás 13:00
 http://fb.com/qwertyuiop
-#EXTINF:-1 tvg-logo=http://i.imgur.com/pSxxdC7.png" group-title="INFORMAÇÕES DA LISTA", qweryuiop - Curta no Facebook 
-http://fb.com/qwertyuiop
+#EXTINF:-1 tvg-logo=http://i.imgur.com/pSxxdC7.png" group-title="INFORMAÇÕES DA LISTA", qweryuiop - Curta no YOUTUBE 
+https://www.youtube.com/channel/UCIzwGLK9qJCJLQ5_A-qkPgQ
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0kE8BgZ.png" group-title="INFORMAÇÕES DA LISTA", qwertyuiop - Site Oficial
 www.qwertyuiop.com 
 #EXTINF:-1 tvg-logo=http://i.imgur.com/6ecHKbb.png" group-title="INFORMAÇÕES DA LISTA", Mande Sua Sugestao 
@@ -53,6 +53,8 @@ http://network.vstreaming.net/movies/escolhaperfeita3-dub-720p.mp4
 http://network.vstreaming.net/movies/aestreladebelem-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1280_720/pictures/16/09/09/15/22/223080.jpg" group-title="LETRA A;DRAMA;POLICIAL;2017;16 anos",A Lei Da Noite
 http://network.vstreaming.net/movies/aleidanoite-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8537583/s592/a-morte-do-demonio" group-title="LETR A;SUSPENSE;TERROR;2013;17 anos",A Morte do Demonio
+http://network.vstreaming.net/movies/amortedodemonio-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/32762951/s592/a-origem-dos-guardioes" group-title="LETRA A;ANIMAÇAO;AVENTURA;FANTASIA;2012;LIVRE",A Origem dos Guardioes
 http://network.vstreaming.net/movies/origemguardioes-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/9823122/s592/the-pink-panther" group-title="LETRA A;COMEDIA;2006;11 anos",A Pantera Cor de Rosa (480)
@@ -127,6 +129,8 @@ http://network.vstreaming.net/movies/brancadeneve-dub-720p.mp4
 
 ########## LETRA C ##########
 
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/11124825/s592/the-dogs-of-war" group-title="LETRA C;AÇAO;CLASSICO;DRAMA;GUERRA;1980;14 anos",Caes de Guerra
+http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4
 #EXTINF:-1 tvg-logo="http://www.vortexcultural.com.br/images/2011/08/Capit%C3%A3o-Am%C3%A9rica-%E2%80%93-O-Primeiro-Vingador.jpg" group-title="LETRA C;AÇAO;FICÇAO;2011;10 anos",Capitao America 1: O Primeiro Vingador
 http://network.vstreaming.net/movies/capitaovingador-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XjzTeAz.jpg" group-title="LETRA C;AÇAO;FICÇAO;2016;10 anos",Capitao America 3: Guerra Civil
@@ -153,6 +157,8 @@ http://network.vstreaming.net/movies/covildeladroes-dub-720p.mp4
 
 ########## LETRA D ##########
 
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/11088513/s592/desafio-radical" group-title="LETRA D;AÇAO;2002;13 anos",Desafio Radical
+http://media-br-am.crackle.com/1/w/z6/jsvlf_480p.mp4
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/detonaralph/images/4/48/Detona_Ralph_Poster_5.jpg/revision/latest?cb=20130120212952&path-prefix=pt-br" group-title="LETRA D;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2013;10 anos",Detona Ralph
 http://network.vstreaming.net/movies/detonaralph-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/17/11/06/20/22/0021404.jpg" group-title="LETRA D;LANÇAMENTO;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2018;LIVRE",Duda e os Gnomos
@@ -228,6 +234,9 @@ http://network.vstreaming.net/movies/independenceresurgimento-dub-720p.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/17/11/28/19/03/5043910.jpg" group-title="LETRA J;AVENTURA;FANTASIA;FICÇAO;2017;13 anos",Jumanji: Bem Vindo a Selva
 http://network.vstreaming.net/movies/jumanji-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/11025621/s592/justica-vermelha" group-title="LETRA J;AÇAO;CLASSICO;POLICIAL;1997;14 anos",Justiça Vermelha
+http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4
+
 
 
 ########## LETRA K ##########
@@ -237,6 +246,8 @@ http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4
 
 ########## LETRA L ##########
 
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/10915136/s592/lagrimas-do-sol" group-title="LETRA L;AÇAO;GUERRA;2003;14 anos",Lagrimas do Sol
+http://media-br-am.crackle.com/1/7/16/1p1lf_480p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/17/09/15/09/58/5557915.jpg" group-title="LETRA L;LANÇAMENTO;SUSPENSE;TERROR;15 anos",Leatherface
 http://network.vstreaming.net/movies/massacrenotexas-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-skV9_RlsDCA/UZuadFe-OfI/AAAAAAAAfwc/k-TQqKig4Xc/s1600/LEGO_Batman_The_Movie.jpg" group-title="LETRA L;ANIMAÇAO;AVENTURA;FANTASIA;2017;LIVRE",Lego Batman: O Filme DC Super Herois se Unem
@@ -252,6 +263,8 @@ http://network.vstreaming.net/movies/lucy-dub-720p.mp4
 http://network.vstreaming.net/movies/madagascar3-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://faith100.org/wp-content/uploads/2018/04/Mary-Magdalene.jpg" group-title="LETRA M;LANÇAMENTO;DRAMA;2018;13 anos",Maria Madalena
 http://network.vstreaming.net/movies/mariamadalena-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/11038694/s592/matador-de-aluguel" group-title="LETRA M;AÇAO;CLASSICO;1989;14 anos",Matador de Aluguel 
+http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ky4v45F.jpg" group-title="LETRA M;AÇAO;FICÇAO;2003;12 anos",Matrix Reloaded
 http://network.vstreaming.net/movies/matrixreloaded-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/17/12/01/14/42/5070907.jpg" group-title="LETRA M;AÇAO;FICÇAO;SUSPENSE;2018;14 anos",Maze Runner 3: A Cura Mortal
@@ -288,6 +301,8 @@ http://network.vstreaming.net/movies/oculto-dub-720p.mp4
 http://network.vstreaming.net/movies/oestrangeiro-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/95/30/85/20395674.jpg" group-title="LETRA O;ANIMAÇAO;AVENTURA;FICÇAO;2012;10 anos",O Expresso Polar
 http://network.vstreaming.net/movies/expressopolar-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/11108539/s592/o-forasteiro-2" group-title="LETRA O;AÇAO;POLICIAL;2005;14 anos",O Forasteiro 2
+http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4
 #EXTINF:-1 tvg-logo="https://stateofmind13.files.wordpress.com/2012/12/the-hobbit-movie-poster-an-unexpected-journey-peter-jackson.jpg" group-title="LETRA H;AÇAO;AVENTURA;DRAMA;FANTASIA;FICÇAO;GUERRA;2012;10 anos",O Hobbit: Uma Jornada Inesperada
 http://network.vstreaming.net/movies/jornadainesperada-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/dd/e0/73/dde073ecf5962b55870598ea633e348f.jpg" group-title="LETRA O;AÇAO;AVENTURA;DRAMA;FANTASIA;FICÇAO;GUERRA;2014;10 anos",O Hobbit: A Batalha Dos Cinco Exercitos
@@ -306,6 +321,8 @@ http://network.vstreaming.net/movies/sociedadeanel-dub-720p.mp4
 http://network.vstreaming.net/movies/senhordosaneisduastorres-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/18/02/12/10/12/1631067.jpg" group-title="LANÇAMENTO;LETRA O;FICÇAO;2018;12 anos",O Titan
 http://network.vstreaming.net/movies/thetitan-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/9203561/s592/o-ultimo-grande-heroi" group-title="LETRA O;AVENTURA;CLASSICO;1993;12 anos",O Ultimo Grande Heroi
+http://media-br-am.crackle.com/1/y/n6/s9ulf_480p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/18/03/14/15/09/1134993.png" group-title="LETRA O;AÇAO;DOCUMENTARIO;2016;14 anos",O Vigilante Mascarado
 http://network.vstreaming.net/movies/ovigilantemascarado-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://i2.wp.com/teaser-trailer.com/wp-content/uploads/The-Cured-Movie-poster.jpg?ssl=1" group-title="LANÇAMENTO;LETRA O;FICÇAO;2018;16 anos",Os Curados
@@ -331,6 +348,8 @@ http://network.vstreaming.net/movies/operacaovalquiria-dub-720p.mp4
 
 ########## LETRA P ##########
 
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/10606706/s592/panico-na-escola" group-title="LETRA P;COMEDIA;TERROR;2011;16 anos",Panico na Escola
+http://network.vstreaming.net/movies/paniconaescola-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://img.elo7.com.br/product/zoom/1D1DA26/poster-marvel-pantera-negra-lo002-tamanho-90-x-0-cm-decoracao-geek.jpg" group-title="LETRA P;LANÇAMENTO;AÇAO;FICÇAO;2018;13 anos",Pantera Negra
 http://network.vstreaming.net/movies/blackpanther-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://oisa.tmsimg.com/assets/p9047424_p_v7_ac.jpg" group-title="LETRA P;ANIMAÇAO;AVENTURA;COMEDIA;2012;LIVRE",Paranorman
@@ -341,6 +360,8 @@ http://network.vstreaming.net/movies/passageiros-dub-720p.mp4
 http://network.vstreaming.net/movies/pequenagrandevida-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcTumT9xgoy5mT1RICjbjrmOVZVZUleWP2q-hPHZ9HTT5T_Llv9z" group-title="LETRA P;ANIMAÇÃO;AVENTURA;COMEDIA;2017;LIVRE",Pica Pau: O Filme
 http://network.vstreaming.net/movies/picapau-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/15872946/s592/perigo-em-alto-mar" group-title="LETRA P;DOCUMENTARIO;DRAMA;SUSPENSE;2010;13 anos",Perigo em Alto Mar
+http://network.vstreaming.net/movies/perigoaltomar-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8743801/s592/pinoquio-1940" group-title="LETRA P;ANIMAÇAO;AVENTURA;CLASSICO;FANTASIA;1941;LIVRE",Pinoquio
 http://network.vstreaming.net/movies/pinoquio-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://pausadrammatica.files.wordpress.com/2014/07/planeta-dos-macacos-o-confronto-poster-nacional.jpg" group-title="LETRA P;AVENTURA;FICÇAO;2014;11 anos",Planeta Dos Macacos: O Confronto
