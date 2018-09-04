@@ -2,10 +2,10 @@
 
 #PLAYLISTV: pltv-logo="https://i.imgur.com/FdzwgzG.png" pltv-name="NZ TECH FILMES DUBLADOS" pltv-description="LISTA DE FILMES" pltv-cover="https://thumbs.dreamstime.com/b/molde-abstrato-do-vetor-do-logotipo-do-cinema-isolado-no-branco-79853306.jpg" pltv-author="NZ TECH" pltv-site="http://qwertyuiop.com" pltv-whats="" pltv-phone="(00)00000000"
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/iQ3dEVB.png" group-title="INFORMAÇÕES DA LISTA", NZ Atualizada 25/08/2018 ás 13:00
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iQ3dEVB.png" group-title="INFORMAÇÕES DA LISTA", NZ Atualizada 05/08/2018 ás 13:00
 http://fb.com/qwertyuiop
-#EXTINF:-1 tvg-logo=http://i.imgur.com/pSxxdC7.png" group-title="INFORMAÇÕES DA LISTA", qweryuiop - Curta no YOUTUBE 
-https://www.youtube.com/channel/UCIzwGLK9qJCJLQ5_A-qkPgQ
+#EXTINF:-1 tvg-logo=http://i.imgur.com/pSxxdC7.png" group-title="INFORMAÇÕES DA LISTA", qweryuiop - Curta no Facebook 
+http://fb.com/qwertyuiop
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0kE8BgZ.png" group-title="INFORMAÇÕES DA LISTA", qwertyuiop - Site Oficial
 www.qwertyuiop.com 
 #EXTINF:-1 tvg-logo=http://i.imgur.com/6ecHKbb.png" group-title="INFORMAÇÕES DA LISTA", Mande Sua Sugestao 
@@ -39,8 +39,12 @@ https://pgli2q.oloadcdn.net/dl/l/kFNFmgcYUHCIfQSz/qnn5hWcyZn0/As+Aventuras+de+Ro
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/18/05/04/15/03/2133793.jpg" group-title="LETRA A;LANCAMETO;COMEDIA;ROMANCE;2018;14 anos",A Barraca do Beijo
 http://network.vstreaming.net/movies/abarracadobeijo-leg-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/10404908/s592/a-caca" group-title="LETRA A;DRAMA;2012;16 anos",A Caça
+http://network.vstreaming.net/movies/acaca-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://i0.wp.com/desencaixados.com/wp-content/uploads/2018/04/0974.jpg" group-title="LETRA A;LANÇAMENTO;DRAMA;2018;13 anos",A Caminho da Fe
 http://network.vstreaming.net/movies/acaminhodafe-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/16690948/s592/arrival" group-title="LETRA A;DRAMA;FICÇAO;2016;11 anos",A Chegada
+http://network.vstreaming.net/movies/achegada-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/a-era-do-gelo.jpg" group-title="LETRA A;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2002;LIVRE",A Era do Gelo
 http://network.vstreaming.net/movies/gelo1-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/a-era-do-gelo-2.jpg" group-title="LETRA A;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2006;LIVRE",A Era do Gelo 2
@@ -101,8 +105,13 @@ http://network.vstreaming.net/movies/anjosnoitesangue-dub-720p.mp4
 http://network.vstreaming.net/movies/asssassinscreed-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8PSGDSn.jpg" group-title="LETRA A;AÇAO;POLICIAL;2016",Assassino a Preço Fixo 2: A Ressurreiçao
 http://network.vstreaming.net/movies/precofixo-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8729293/s592/o-heroi-de-hacksaw-ridge" group-title="LETRA A;AÇAO;DRAMA;GUERRA;2017;14 anos",Ate o Ultimo Homem
+http://network.vstreaming.net/movies/ATE%20O%20ULTIMO%20HOMEM%20-%20DUB%20-%20720P.mp4
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/9362330/s592/avioes" group-title="LETRA A;ANIMAÇAO;AVENTURA;FANTASIA;2013;LIVRE",Avioes
 http://network.vstreaming.net/movies/avioes-dub-720p.mp4
+
+
+
 
 ########## LETRA B ##########
 
@@ -116,6 +125,8 @@ http://network.vstreaming.net/movies/cavaleiroressurge-dub-720p.mp4
 http://network.vstreaming.net/movies/batmanvsuperman-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://www.mmfilmes.tv/wp-content/uploads/2018/02/unnamed-file-91-200x300.jpg" group-title="LETRA B;AÇAO;ANIMAÇAO;AVENTURA;FANTASIA;LANÇAMENTO;2018;12 anos",Batman: Gotham By Gaslight
 http://network.vstreaming.net/movies/batmangaslight-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/10704012/s592/collateral-beauty" group-title="LETRAB;DRAMA;ROMANCE;2016;14 anos",Beleza Oculta
+http://network.vstreaming.net/movies/belezaoculta-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://imgsapp2.uai.com.br/app/da_filmes_13559203164/2017/10/26/3225/20171026060149577515a.jpg" group-title="LETRA B;ANIMAÇAO;COMEDIA;FANTASIA;2017;LIVRE",Big Pai Big Filho
 http://network.vstreaming.net/movies/bigpai-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/93/16/78/20239701.jpg" group-title="LETRA B;AÇAO;AVENTURA;FANTASIA;FICÇAO;SUSPENSE;TERROR;1998;14 anos",Blade: O Caçador De Vampiros (480)
@@ -137,6 +148,8 @@ http://network.vstreaming.net/movies/capitaovingador-dub-720p.mp4
 http://network.vstreaming.net/movies/guerracivil-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/17/03/10/15/25/441162.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2017;LIVRE",Carros 3
 http://network.vstreaming.net/movies/carros3-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8692754/s592/cartas-para-julieta" group-title="LETRA C;COMEDIA;DRAMA;ROMANCE;2010;12 anos",Cartas Para Julieta
+http://network.vstreaming.net/movies/cartasparajulieta-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upxOtgk.jpg" group-title="LETRA C;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2006;LIVRE",Cegonhas: A Historia que Nao te Contaram
 http://network.vstreaming.net/movies/cegonhas-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ETP042.jpg" group-title="LETRA C;COMEDIA;2016;14 anos",Cinquenta Tons de Preto
@@ -227,6 +240,8 @@ http://network.vstreaming.net/movies/honraomerito-dub-720p.mp4
 http://network.vstreaming.net/movies/independenceday-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://moviehighlight.files.wordpress.com/2015/11/poster-film-independence-day-resurgence.jpg" group-title="LETRA I;ACAO;FICÇAO;SUSPENSE;2016;12 anos",Independence Day 2: O Ressurgimento
 http://network.vstreaming.net/movies/independenceresurgimento-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8703955/s592/interestelar" group-title="LETRAI;AÇAO;AVENTURA;DRAMA;FICÇAO;2015;12 anos",Interstelar
+http://network.vstreaming.net/movies/interstellar-dub-720p.mp4
 
 
 
@@ -244,6 +259,8 @@ http://media-br-am.crackle.com/1/l/56/ur1lf_480p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/92/61/42/20208888.jpg" group-title="LETRA K;AÇAO;AVENTURA;CLASSICO;DRAMA;1989;10 anos",Karate Kid 3: O Desafio Final
 http://media-br-am.crackle.com/1/4/f6/u7ylf_480p.mp4
 
+
+
 ########## LETRA L ##########
 
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/10915136/s592/lagrimas-do-sol" group-title="LETRA L;AÇAO;GUERRA;2003;14 anos",Lagrimas do Sol
@@ -256,6 +273,9 @@ http://network.vstreaming.net/movies/legobatman-dub-720p.mp4
 http://network.vstreaming.net/movies/lorax-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8705076/s592/lucy" group-title="LETRA L;AÇAO;FICÇAO;SUSPENSE;2014",Lucy
 http://network.vstreaming.net/movies/lucy-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8813352/s592/the-light-between-oceans" group-title="LETRA L;DRAMA;ROMANCE;2016;14 anos",Luz Entre Oceanos
+http://network.vstreaming.net/movies/luzentreoceanos-dub-720p.mp4
+
 
 ########## LETRA M ##########
 
@@ -278,6 +298,8 @@ http://network.vstreaming.net/movies/mulhermaravilha-dub-720p.mp4
 
 ########## LETRA N ##########
 
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/9624487/s592/nao-me-abandone-jamais" group-title="LETRA N;DRAMA;FANTASIA;FICÇAO;ROMANCE;2010;14 anos",Nao Me Abandone Jamais
+http://network.vstreaming.net/movies/naomeabandonejamais-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/8705283/s592/no-limite-do-amanha" group-title="LETRA N;AÇAO;FICÇAO;SUSPENSE;2014;14 anos",No Limite do Amanha
 http://network.vstreaming.net/movies/limiteamanha-dub-720p.mp4
 
@@ -307,6 +329,8 @@ http://media-br-am.crackle.com/1/p/56/av1lf_480p.mp4
 http://network.vstreaming.net/movies/jornadainesperada-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/dd/e0/73/dde073ecf5962b55870598ea633e348f.jpg" group-title="LETRA O;AÇAO;AVENTURA;DRAMA;FANTASIA;FICÇAO;GUERRA;2014;10 anos",O Hobbit: A Batalha Dos Cinco Exercitos
 http://network.vstreaming.net/movies/cincoexercitos-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/10674345/s592/o-melhor-de-mim" group-title="LETRA O;DRAMA;ROMANCE;2015;14 anos",O Melhor de Mim
+http://network.vstreaming.net/movies/omelhordemim-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://www.filmesonlinehd7.cc/static/images/posters/o-poderoso-chefinho.jpg" group-title="LETRA P;ANIMAÇAO;AVENTURA;COMEDIA;FANTASIA;2017;LIVRE",O Poderoso Chefinho
 http://network.vstreaming.net/movies/poderosochefinho-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://oreileao.com.br/wp-content/uploads/2011/10/poster.png" group-title="LETRA O;ANIMAÇAO;AVENTURA;CLASSICO;MUSICAL;1994;LIVRE",O Rei Leao
@@ -366,6 +390,8 @@ http://network.vstreaming.net/movies/perigoaltomar-dub-720p.mp4
 http://network.vstreaming.net/movies/pinoquio-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://pausadrammatica.files.wordpress.com/2014/07/planeta-dos-macacos-o-confronto-poster-nacional.jpg" group-title="LETRA P;AVENTURA;FICÇAO;2014;11 anos",Planeta Dos Macacos: O Confronto
 http://network.vstreaming.net/movies/planetamacacosconfronto-dub-720p.mp4
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/10634269/s592/we-need-to-talk-about-kevin" group-title="LETRA P;DRAMA;2012;16 anos",Precisamos Falar Sobre Kevin
+http://network.vstreaming.net/movies/precisamosfalarsobrekevin-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/16/06/30/20/49/544752.jpg" group-title="LETRA P;ANIMAÇAO;AVENTURA;FANTASIA;2016;LIVRE",Procurando Dory
 http://network.vstreaming.net/movies/procurandodory-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/91/25/21/20154443.jpg" group-title="LETRA P;ANIMAÇAO;AVENTURA;FANTASIA;2003;LIVRE",Procurando Nemo
