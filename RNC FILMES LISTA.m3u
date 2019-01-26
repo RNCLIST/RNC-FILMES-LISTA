@@ -1533,6 +1533,8 @@ http://sve-2.redecanais.download/RedeCanais/RCFServer1/ondemand/QSTDTMP.mp4?
 
 #EXTINF:-1 tvg-logo="https://www.thestoryoftexas.com/upload/images/events/movies/the-searchers-secondary.jpg?1453143361" group-title="LETRA R;CLASSICO;FAROESTE;1956;14 anos",Rastros De Odio
 http://sve-2.redecanais.download/RedeCanais/RCFServer1/ondemand/RSTRSDODIO.mp4?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ViQDwZC.jpg" group-title="LETRA R;AÇAO;FAROESTE;2016;14 anos",Resgate no Oeste
+http://sve-2.redecanais.download/RedeCanais/RCFServer3/ondemand/RSGTNOSTE.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nvFUNXv.jpg" group-title="LETRA R;AÇAO;2017;13 anos",Resgate Suicida
 http://sve-2.redecanais.download/RedeCanais/RCFServer3/ondemand/RSGTSCD.mp4?
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/05/03/16/25/058317.jpg" group-title="LETRA R;AÇAO;DRAMA;FANTASIA;2017;14 anos",Rei Arthur
